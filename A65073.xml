@@ -1,0 +1,655 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saints nearness to God being a discourse upon part of the CXLVIII Psalm / written at the request of a friend by Richard Vines ...</title>
+            <author>Vines, Richard, 1600?-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 85 KB of XML-encoded text transcribed from 76 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65073</idno>
+            <idno type="STC">Wing V567</idno>
+            <idno type="STC">ESTC R3254</idno>
+            <idno type="EEBO-CITATION">12083590</idno>
+            <idno type="OCLC">ocm 12083590</idno>
+            <idno type="VID">53664</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53664)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 587:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saints nearness to God being a discourse upon part of the CXLVIII Psalm / written at the request of a friend by Richard Vines ...</title>
+                  <author>Vines, Richard, 1600?-1656.</author>
+                  <author>Drury, William.</author>
+               </titleStmt>
+               <extent>[9], 143 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Francis Tyton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Epistle dedicatory signed: William Drury.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXLVIII --  Criticism, interpretation, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:53664:1" rendition="simple:additions"/>
+            <p>PErlegi hunc Tractatum, in quo nihil reperio aut ſanae Doctrinae aut bonis moribus contra<g ref="char:EOLhyphen"/>rium, quo minus Imprimatur.</p>
+            <closer>
+               <dateline>Ex Aedibus <hi>Lambethanis</hi> 
+                  <date>Octob. 13. 1662.</date>
+               </dateline>
+               <signed>
+                  <hi>Dan. Nicols. R. P. D.</hi> Arch. <hi>Cant.</hi> Capel. Domeſticus.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:53664:1" rendition="simple:additions"/>
+            <p>THE SAINTS Nearneſs to GOD: BEING A Diſcourſe upon part of the CXL VIII. Pſalm. Written at the re<g ref="char:EOLhyphen"/>queſt of a Friend.</p>
+            <p>By <hi>Richard Vines</hi> Late Miniſter at S<hi rend="sup">t</hi> 
+               <hi>Laurence Jury</hi> in <hi>London.</hi>
+            </p>
+            <p>Now publiſhed for the publick good of the Church.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>A. M.</hi> for <hi>Francis Tyron</hi> at the three Daggers in <hi>Fleet ſtreet,</hi> 1662.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:53664:2" rendition="simple:additions"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:53664:2"/>
+            <head>
+               <hi>TO THE RIGHT HONOURABLE AND Vertuous Patroneſs of Piety THE Lady</hi> ELIZABETH <hi>Counteſs Dowager of</hi> Exeter <hi>encreaſe of all divine graces and temporall bleſſings in this life, and eternall glory in the life to come.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S the Queen of <hi>Sheba</hi> was by the fame of <hi>Solomon</hi>'s wiſdome encouraged to take a
+<pb facs="tcp:53664:3"/> long journey, to have the perſonall ſight and real experience of thoſe ex<g ref="char:EOLhyphen"/>cellencies in him, where<g ref="char:EOLhyphen"/>of ſhe was before (upon credit only) ſo great an admirer: ſo I being a ſtranger to your Perſon, but invited by the re<g ref="char:EOLhyphen"/>port of your Honours Religious converſation and good affection to<g ref="char:EOLhyphen"/>wards pious and de<g ref="char:EOLhyphen"/>vout perſons, and all la<g ref="char:EOLhyphen"/>bours effectually endea<g ref="char:EOLhyphen"/>vouring to bring Chri<g ref="char:EOLhyphen"/>ſtians unto an exact
+<pb facs="tcp:53664:3"/> rule of holy living, do now preſume to offer this Mite into the pub<g ref="char:EOLhyphen"/>lick Treaſury under your Noble Patronage, ho<g ref="char:EOLhyphen"/>ping the ſtamp of your acceptance and counte<g ref="char:EOLhyphen"/>nance will make it cur<g ref="char:EOLhyphen"/>rant in the world, to whoſe cenſure it is ex<g ref="char:EOLhyphen"/>poſed, and for whoſe ſake it now comes forth a <hi>Poſthumus</hi> after the deceaſe of the Reverend Author, whoſe abilities and exemplary life were well known. And I was
+<pb facs="tcp:53664:4"/> the rather moved here<g ref="char:EOLhyphen"/>unto, upon conſideration of my own unworthineſs and unprofitableneſs in the age I live in; and that I am never likely to advantage it ſo much, as this ſmall Treatiſe may, although there be more want of the pra<g ref="char:EOLhyphen"/>ctice of Piety, than of the works of thoſe that ear<g ref="char:EOLhyphen"/>neſtly perſwade to it. And be ſides I thought it incumbent upon me as a debt due to the memory of the Author, and ſatiſ<g ref="char:EOLhyphen"/>faction
+<pb facs="tcp:53664:4"/> of importunate friends, not to let this Tract written upon a ſolemn invitation and requeſt of an Acquain<g ref="char:EOLhyphen"/>tance, to be buried in oblivion; and that there<g ref="char:EOLhyphen"/>by God may be glorified, his Church and ſer<g ref="char:EOLhyphen"/>vants furthered in their paſſage through the de<g ref="char:EOLhyphen"/>ſart of this mortall life, towards the celeſtiall <hi>Canaan,</hi> and your Ho<g ref="char:EOLhyphen"/>nour (whoſe affection and choice is with <hi>Mary</hi> in the Goſpel ſet upon
+<pb facs="tcp:53664:5"/> the better part and ſpi<g ref="char:EOLhyphen"/>rituall things) may reap ſome content and re<g ref="char:EOLhyphen"/>freſhment therein, is the earneſt prayer and de<g ref="char:EOLhyphen"/>ſire of</p>
+            <closer>
+               <signed>Your Honours moſt humble Servant and affectionate Orator <hi>William Drury.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 6. 1662.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:53664:5"/>
+            <head>THE SAINTS Nearneſs to GOD.</head>
+            <epigraph>
+               <bibl>Pſal. 148. 14.</bibl>
+               <q>A people near unto him.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Book of <hi>Pſalmes</hi> in the general, is a deſcrip<g ref="char:EOLhyphen"/>tion of the eſtate and condition of a
+<pb n="2" facs="tcp:53664:6"/> godly man. In the begin<g ref="char:EOLhyphen"/>ning, we have him call'd a bleſſed man; in the bleſſedneſſe of holineſſe: and ſo going on in the wayes of righteouſneſſe, his eſtate in the end, is ſhut up in the happineſſe of bleſſing and praiſe: For ſo the Book ends, as his life ends, in nothing but praiſe. Wherein <hi>Da<g ref="char:EOLhyphen"/>vid</hi> as it were, begins to tune his heart to that Song of praiſe, which he now ſings for ever in Heaven. In many parts of the Book, walking in holineſs, (and ſo carrying happineſſe with him) we ſee him notwithſtanding
+<pb n="3" facs="tcp:53664:6"/> meet with many ſtorms, and tempeſts of evil: But as it were, eſcaped from all in the end, he burſts forth in thanks. To put into every like godly mans mouth his Leſſon to conne, before the day of conſort in Heaven, when nothing elſe ſhall be ſung, but praiſe, and honour, and thanks. The firſt part of this holy ſong begins in the 145. <hi>Pſal.</hi> 1. where firſt ſtirring up his own heart to ſing, and ſo giving the pattern, as <hi>Gideon</hi> ſaid to his Soul<g ref="char:EOLhyphen"/>diers; <hi>Look on me and do likewiſe,</hi> ſo in the end ſaith he, <hi>My mouth ſhall</hi>
+               <pb n="3" facs="tcp:53664:7"/> 
+               <hi>ſpeak the praiſe of the Lord, and let all fleſh bleſs his holy name for ever and ever.</hi> And from thence, every <hi>Pſalm</hi> begins and ends with praiſe. Yea the laſt is praiſe throughout; nothing but praiſe, praiſe.</p>
+            <p>Among theſe hortato<g ref="char:EOLhyphen"/>ry <hi>Pſalms</hi> to praiſe, is this our 148. And it is a general exhortation to all ſorts of creatures in their kinds, to praiſe the Lord, whether they be things above, as Angels, the <note place="margin">Verſ. 2.</note> inhabitants of the firſt Heavens: or Stars and <note place="margin">Verſ. 3.</note> Lights of the next Hea<g ref="char:EOLhyphen"/>ven: or Clouds and
+<pb n="4" facs="tcp:53664:7"/> Vapours, and Meteors, <note place="margin">Verſ. 7, 8.</note> which are in the loweſt Heaven: or elſe lower <note place="margin">Verſ. 9.</note> things, as Mountains and Hills; living things, as Trees, and Beaſts, and Foul: Together laſtly <note place="margin">Verſ. 11, 12.</note> with Men, of every con<g ref="char:EOLhyphen"/>dition and eſtate, for whom all the former were made. And this ex<g ref="char:EOLhyphen"/>hortation is backt with a trebble Reaſon: 1. Ta<g ref="char:EOLhyphen"/>ken from the relation, between God and the ſe<g ref="char:EOLhyphen"/>veral ſorts of creatures. And, 2. That ſpecial ex<g ref="char:EOLhyphen"/>cellency that is in God himſelf. And, 3. From his goodneſſe to his peo<g ref="char:EOLhyphen"/>ple. The firſt Reaſon is
+<pb n="6" facs="tcp:53664:8"/> laid down in the 5. and 6. <note place="margin">Verſ. 5.</note> 
+               <hi>Verſes,</hi> and it ſtands upon theſe two parts; Firſt, The creatures muſt praiſe God, becauſe he is their Maker; <hi>He comman<g ref="char:EOLhyphen"/>ded and they were created.</hi> Secondly, Becauſe he <note place="margin">Verſ. 6.</note> upholds them all being made, which is from his decree, that they ſhall not paſs, <hi>v.</hi> 6.</p>
+            <p>But in ſpeciall men muſt give him praiſe. Firſt, For his own excel<g ref="char:EOLhyphen"/>lency and glory in the 13. <hi>verſe.</hi> which glory <note place="margin">Verſ. 13.</note> and excellency is moſt tranſcendent, even above all the excellency of the creature, above the earth
+<pb n="7" facs="tcp:53664:8"/> and Heaven. Secondly, For his goodneſſe to his people, which is in the 14. <hi>verſe,</hi> which is in ex<g ref="char:EOLhyphen"/>alting his people; <hi>He ex<g ref="char:EOLhyphen"/>alts the horn of his people, the praiſe of all his Saints.</hi> And this people is ſet out by their name who they were, <hi>The children of Iſ<g ref="char:EOLhyphen"/>rael;</hi> and by their inter<g ref="char:EOLhyphen"/>eſt in him, <hi>They are a people near him.</hi>
+            </p>
+            <p>
+               <hi>He alſo exalts the horn of his people, the praiſe of all his Saints; even of the children of Iſrael, a people near him.</hi> And ſo we are come to the words.</p>
+            <p>The point of Obſer<g ref="char:EOLhyphen"/>vation we intend to han<g ref="char:EOLhyphen"/>dle
+<pb n="8" facs="tcp:53664:9"/> out of theſe words is only this:</p>
+            <p>
+               <hi>That Gods Saints, are a</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>people very near him.</hi>
+            </p>
+            <p>In the handling of this point, we will ſhew</p>
+            <p>Firſt, What nearneſſe is, or wherein it conſiſts. And</p>
+            <p>Secondly, In what re<g ref="char:EOLhyphen"/>ſpects Gods Saints are ſaid to be near unto him.</p>
+            <p>Nearneſſe firſt is <hi>Geo<g ref="char:EOLhyphen"/>metrical,</hi> and it is that lit<g ref="char:EOLhyphen"/>tle ſpace or diſtance be<g ref="char:EOLhyphen"/>tween thing and thing, from thence by a trope or turning of the word,
+<pb n="9" facs="tcp:53664:9"/> it is uſed for any ſpecial relation between one thing and another.</p>
+            <p n="1">1. There is a <hi>Political</hi> nearneſſe; as firſt, the nearneſſe of League or Confederacy between Nation and Nation. So <hi>Solomon</hi> was near to <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> by Confederacy.</p>
+            <p n="2">2. There is the near<g ref="char:EOLhyphen"/>neſſe of Government, when Prince and People conſent to govern and be governed together, which is a farther nearneſſe.</p>
+            <p>Secondly, There is an <hi>Oeconomical</hi> nearneſſe, the nearneſſe of a Servant and a Maſter, which is ſtill a further nearneſſe.</p>
+            <pb n="10" facs="tcp:53664:10"/>
+            <p> Thirdly, There is an <hi>Ethical</hi> nearneſſe, the nearneſſe of friend to friend, which is yet nearer.</p>
+            <p>Fourthly, There is a <hi>Logical</hi> nearneſſe: 1. The nearneſſe of houſe and inhabitant. 2. The near<g ref="char:EOLhyphen"/>neſſe of Relation or Kin<g ref="char:EOLhyphen"/>dred, of Sonne and Fa<g ref="char:EOLhyphen"/>ther, Wife and Husband.</p>
+            <p n="3">3. And of ſimilitude or likeneſſe, as of the pi<g ref="char:EOLhyphen"/>cture to the perſon.</p>
+            <p>Fifthly, We have a <hi>Phyſical</hi> or <hi>Natural</hi> near<g ref="char:EOLhyphen"/>neſſe, which is the high<g ref="char:EOLhyphen"/>eſt degree of all others As, 1. Of the branches to the tree. And, 2.
+<pb n="11" facs="tcp:53664:10"/> Members to the head.</p>
+            <p>Having drawn forth theſe particulars out of their ſeveral places, we now will ſhew how Gods people are ſaid to be near him.</p>
+            <p n="1">1. Yet this is firſt to be premiſed, that there is a common nearneſſe to <note place="margin">A com<g ref="char:EOLhyphen"/>mon near<g ref="char:EOLhyphen"/>neſſe of creatures and men.</note> God which is the near<g ref="char:EOLhyphen"/>neſſe of the whole crea<g ref="char:EOLhyphen"/>ture, namely, to him as he is omnipreſent, whereby all the frame of the world wes near him, and in ſome ſort touches him, he being in, and through, and above, and about all things.</p>
+            <p n="2">2. Again, there is a
+<pb n="12" facs="tcp:53664:11"/> nearneſs to him in his Providence, which is that ſecret touch of his hand, whereby he ſuſtains and preſerves all things. In theſe two ſenſes, not only his people, but all other men, and all things elſe, ſtones and trees, and the like, are ſaid to be near him. And in the latter ſenſe, we have it ſpoken of men out of the Church, <hi>Act.</hi> 17. 27, 28. where <hi>Paul</hi> tells the <hi>Athenians,</hi> God was not far off them, becauſe in him they live, more, <hi>&amp;c.</hi> that is, he is their preſer<g ref="char:EOLhyphen"/>ver; yea in this ſenſe the very Devils are near him.</p>
+            <p n="3">
+               <pb n="13" facs="tcp:53664:11"/> 3. There is another <note place="margin">A near<g ref="char:EOLhyphen"/>neſs of men in the Church.</note> farther degree of near<g ref="char:EOLhyphen"/>neſs which belongs to men, and that to thoſe which are within the Park of the Church, a common nearneſs to Be<g ref="char:EOLhyphen"/>lievers and Unbelievers.</p>
+            <p>The nearneſs of a com<g ref="char:EOLhyphen"/>mon <note place="margin">Nearneſs of com<g ref="char:EOLhyphen"/>mon Co<g ref="char:EOLhyphen"/>venant.</note> Covenant, and the ſigns of that Covenant; that nearneſs to him in his Ordinances, whereby God is more near to them, than other men out of the Church.</p>
+            <p>But this I take not to be the nearneſs here chiefly intended, though this be a prerogarive of the Church worthy
+<pb n="14" facs="tcp:53664:12"/> much thanks and praiſe. The nearneſs here chief<g ref="char:EOLhyphen"/>ly <note place="margin">The near<g ref="char:EOLhyphen"/>neſs here meant.</note> meant is a nearneſs be<g ref="char:EOLhyphen"/>longing to Saints, as the words foregoing ſeem to import, and ſo ſome of our beſt Expo<g ref="char:EOLhyphen"/>ſitors give it, to be a pe<g ref="char:EOLhyphen"/>culiar proximity, which belongs to the people of God and no other, which ſtrangers meddle not with, nor know.</p>
+            <p>But to ſhew wherein this nearneſs conſiſts, which is in two things.</p>
+            <list>
+               <item>1. They are near him in faith.</item>
+               <item>2. In the work of faith.</item>
+            </list>
+            <p>Firſt, They are near him in faith.</p>
+            <pb n="15" facs="tcp:53664:12"/>
+            <p> The name and nature of faith ſhews as much.</p>
+            <p>For faith is the rely<g ref="char:EOLhyphen"/>ing upon God as mine in Chriſt.</p>
+            <p>Firſt, It is a relying.</p>
+            <p>And to this purpoſe is it ſet out by truſting, and ſtaying, and rolling the ſoul on God. Hence a <note place="margin">1 Pet. 2. 7.</note> godly man is ſaid to be built on Chriſt, and root<g ref="char:EOLhyphen"/>ed in him, which phraſes intimate thus much unto us, that the Believer is as near unto God having faith in him, as a man is to the thing on which he leans, as the ſtone to the ground on which it is roll'd, as the building to
+<pb n="16" facs="tcp:53664:13"/> the foundation, and the tree to the ſoil in which it ſtands and grows.</p>
+            <p>Again, It is the rely<g ref="char:EOLhyphen"/>ing on God as mine] that is, the Believer is as near God by faith, as the poſſeſſor and the thing poſſeſſed, as the Land and the Lord, the houſe and the owner. Faith is of an appropriating nature, bringing God and what<g ref="char:EOLhyphen"/>ſoever is in him unto the Believer.</p>
+            <p>As mine in Chriſt, for 'tis by him all our near<g ref="char:EOLhyphen"/>neſſe is.</p>
+            <p>So that this nearneſſe is in faith. Faith is as the <hi>Jacobs</hi> Ladder, whereby
+<pb n="17" facs="tcp:53664:13"/> his people aſcend up, and come near unto him.</p>
+            <p>And it hath in it theſe eight rounds or degrees of nearneſſe.</p>
+            <list>
+               <item>1. A nearneſſe of Co<g ref="char:EOLhyphen"/>venant.</item>
+               <item>2. Of People to their Prince.</item>
+               <item>3. Of Servant to his Maſter.</item>
+               <item>4. Friend to Friend.</item>
+               <item>5. Of Child to Fa<g ref="char:EOLhyphen"/>ther.</item>
+               <item>6. Of Spouſe to Huſ<g ref="char:EOLhyphen"/>band.</item>
+               <item>7. Of Branch to the Tree.</item>
+               <item>8. Of the Member to the Head.</item>
+            </list>
+            <p n="1">1. The nearneſſe of
+<pb n="18" facs="tcp:53664:14"/> faith, is a nearneſſe of Covenant or League.</p>
+            <p>Before men believe they are afar off, as ene<g ref="char:EOLhyphen"/>mies and haters of God; <note place="margin">Rom. 1. 30 Col. 1. 21.</note> ſo enemies in their minds by wicked works. To give a touch, They were enemies, and enemies in their minds, that is to ſay, enemies in their minds, by wicked works. All enmity is compleat in <note place="margin">Enmity is in two things.</note> theſe two, in the mind and in the work; they were both enemies in mind and work, for the word may be ſo render<g ref="char:EOLhyphen"/>ed. And again enemies in mind, by wicked works, wicked works being the
+<pb n="19" facs="tcp:53664:14"/> cauſe of this enmity of the mind. And therefore <hi>Joh.</hi> 3. 20. men are ſaid to hate the light, becauſe their works are evil; this by the way: ſo that men in ſins are far off as ene<g ref="char:EOLhyphen"/>mies, not in League or Covenant. God in Jeſus Chriſt offers conditions of peace: men when once they have faith, they then enter League, and there<g ref="char:EOLhyphen"/>fore <hi>Iſa.</hi> 56. 4, 6. 'tis a <note place="margin">Iſa. 56. 4, 6</note> laying hold on the Co<g ref="char:EOLhyphen"/>venant, that is, that which ſtrikes the ſtroke, and re<g ref="char:EOLhyphen"/>conciles God and man of<g ref="char:EOLhyphen"/>fended. Faith layes down the weapons, ſins<g ref="char:punc">▪</g> that fought againſt God, and
+<pb n="20" facs="tcp:53664:15"/> layes hold on mercy, the Covenant and League God offers to men, if they will be friends.</p>
+            <p>The whole Scripture ſhews this evidently, be<g ref="char:EOLhyphen"/>ing indeed nothing elſe, but the Writings of the Covenant of faith be<g ref="char:EOLhyphen"/>tween God and man. The old and new Teſta<g ref="char:EOLhyphen"/>ment are but the pair of Indentures or Cove<g ref="char:EOLhyphen"/>nants, the old being the firſt Bill or Covenant, which being once expi<g ref="char:EOLhyphen"/>red, is renewed in the new Teſtament, as a ſign of this nearneſſe.</p>
+            <p n="2">2. The ſecond ſtep in this Ladder of faiths
+<pb n="21" facs="tcp:53664:15"/> nearneſſe, is the nearneſſe of people and Prince, <note place="margin">Near neſſe of people to King.</note> 
+               <hi>Iſa.</hi> 33. 22. <hi>The Lord is our King, and he will ſave us;</hi> ſo, <hi>we are his people,</hi> and throughout the Prophets, <hi>my people.</hi> Some chooſe pleaſure, others profit, others credit, but the Lord is their King. Others they acknowledg him not, nor do any ho<g ref="char:EOLhyphen"/>mage to him, and there<g ref="char:EOLhyphen"/>fore they are called Re<g ref="char:EOLhyphen"/>bels, <hi>Pſal.</hi> 68. 18. becauſe <note place="margin">Pſal. 68. 18.</note> they have no faith: but faith in Gods people comes and takes the Oath of Allegiance, and ſwears them Gods peo<g ref="char:EOLhyphen"/>ple, to ſay as <hi>David</hi> did,
+<pb n="22" facs="tcp:53664:16"/> 
+               <hi>I have ſworn, and I will perform to keep thy righ<g ref="char:EOLhyphen"/>teous ſtatutes.</hi>
+            </p>
+            <p n="3">3. Gods people are near unto him as a Ser<g ref="char:EOLhyphen"/>vant <note place="margin">Nearneſſe. of Servant</note> to a Maſter.</p>
+            <p>This is a ſtep yet higher and nearer: that they are ſuch whoſe of<g ref="char:EOLhyphen"/>fice it is continually to wait and attend upon God. Faith puts upon them Gods Livery, that they are men of his own Cloth. And this ſervice is not an Apprentiſhip, to ſerve their Maſter for a time, and then to go out Journeymen for them<g ref="char:EOLhyphen"/>ſelves, but like the Ser<g ref="char:EOLhyphen"/>vant in <hi>Exod.</hi> 21. 5. that
+<pb n="23" facs="tcp:53664:16"/> liking his Maſter well, was to have his eare boared through with an Aule, and ſerve him for ever: ſo becauſe they like their Maſter well, becauſe his ſervice is per<g ref="char:EOLhyphen"/>fect freedom; they take him as it is <hi>Luke</hi> 1. 75. <hi>To ſerve him for e<g ref="char:EOLhyphen"/>ver.</hi>
+            </p>
+            <p>Whereas contrary, o<g ref="char:EOLhyphen"/>ther men are of another living, ſervants of Satan the Prince of this world. Or at the beſt, their ſer<g ref="char:EOLhyphen"/>vice is but ſlavery, which is a ſervice of compulſi<g ref="char:EOLhyphen"/>on.</p>
+            <p>They are no more his ſervants than all other
+<pb n="24" facs="tcp:53664:17"/> things, ſtones, and trees, and the like. Or as the <hi>Aſſyrian,</hi> Iſai. 10. 7. <hi>They acknowledg him not.</hi> The <hi>Aſſyrian</hi> there was Gods ſervant, for ſaith the Text, <hi>I will ſend him a<g ref="char:EOLhyphen"/>gainſt an hypocritical Na<g ref="char:EOLhyphen"/>tion,</hi> &amp;c. Howbeit, he thinks not ſo, but to cut off Nations. God there ſent him of his errand, to deſtroy, though he thought himſelf his own Maſter, and that he wrought for himſelf. So men, though they ſeem to be ſervants to God in do<g ref="char:EOLhyphen"/>ing his work, yet they in deed work for themſelves as their own Maſters. But
+<pb n="25" facs="tcp:53664:17"/> Gods people are near as the Servant to the Ma<g ref="char:EOLhyphen"/>ſter.</p>
+            <p>And not only ſo;</p>
+            <p n="4">4. But fourthly, This <note place="margin">Nearneſſe of friends.</note> ladder of nearneſſe of faith, hath another high<g ref="char:EOLhyphen"/>er ſtep; The nearneſſe of friend to friend. They are Gods friends, as <hi>A-Abraham,</hi> 2. <hi>Jam.</hi> 23. ſo Gods acquaintance, his companions, and famili<g ref="char:EOLhyphen"/>ars, <hi>Acquaint thy ſelf with</hi> 
+               <note place="margin">Job 22. 21.</note> 
+               <hi>him,</hi> &amp;c. Nay they are all the acquaintance, all the familiars he hath in the world.</p>
+            <p>Therefore men with<g ref="char:EOLhyphen"/>out faith are called <hi>ſtran<g ref="char:EOLhyphen"/>gers,</hi> that is, ſuch as know <note place="margin">Eph. 4. 18.</note>
+               <pb n="26" facs="tcp:53664:18"/> him not, ſuch as are not acquainted with him. They may indeed know his kindneſſe, be acquain<g ref="char:EOLhyphen"/>ted with his mercy, as peace, and health, and riches; but him they know not, ſo as to be in<g ref="char:EOLhyphen"/>tire and intimate with him, ſo as to call him friend, and to be called ſo by him, when Gods people are his friends.</p>
+            <p n="5">5. Faith hath another ſtep or farther degree of nearneſſe, which is the nearneſſe of kindred, they are his children.</p>
+            <p>Unbelievers may be retainers to him, ſuch as hold their Lands and Pri<g ref="char:EOLhyphen"/>viledges
+<pb n="27" facs="tcp:53664:18"/> by him, ſuch as now and then attend on him, once or twice a year, at <hi>Christmaſs</hi> and <hi>Eaſter,</hi> or ſuch like Feſti<g ref="char:EOLhyphen"/>vities; but at the beſt they are but hired ſervants, <hi>Luke</hi> 15. 17. that is, ſuch as ſerve for hire, for life, and ſafety. But they are nothing of a kindred to him, none of the chil<g ref="char:EOLhyphen"/>dren. Whereas Gods people are near unto him, and ſo near as of kindred, and ſo near of kindred as children.</p>
+            <p>
+               <hi>As many as received</hi> 
+               <note place="margin">Joh. 1. 12.</note> 
+               <hi>him, to them he gave power to be the Sonnes of God, even thoſe that be<g ref="char:EOLhyphen"/>lieve</hi>
+               <pb n="28" facs="tcp:53664:19"/> 
+               <hi>in his name.</hi> So in Eſay 63. 16. <hi>Doubtleſſe thou art our Father, though Abraham be ignorant of us,</hi> &amp;c. Faith there ſteps forth, and breaking through the clouds of Gods diſpleaſure, chal<g ref="char:EOLhyphen"/>lenges kindred of him calls him Father, and 'tis out of queſtion, <hi>Doubt<g ref="char:EOLhyphen"/>leſſe thou art our Fa<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p>Other men cannot ſay ſo, if they do, 'tis a tel<g ref="char:EOLhyphen"/>ling God a lye to his face.</p>
+            <p>They are at the beſt but Baſtards and no true Sonnes. Only ſuch as in outward profeſſion call
+<pb n="29" facs="tcp:53664:19"/> God Father: but they are illegitimate, born of the <note place="margin">Joh. 1. 13.</note> will of the fleſh, and the will of man, and not of the will of God. Such whoſe new-birth is from the will of the fleſh, or the will of man. Their ſhew of godlineſſe and ſeeming holineſſe, is at the beſt but of the will of the fleſh, of themſelves and for themſelves, for their own good and ſafe<g ref="char:EOLhyphen"/>ty, being ſtird up, and act<g ref="char:EOLhyphen"/>ed, and ended by the fleſh, and in the fleſh: or of the will of man, that is, 'tis a profeſſion and ſeeming holineſſe, be<g ref="char:EOLhyphen"/>cauſe men would have
+<pb n="30" facs="tcp:53664:20"/> them to be holy, for the will of ſuch a friend, Fa<g ref="char:EOLhyphen"/>ther, or the like, to ſa<g ref="char:EOLhyphen"/>tisfie men. As if the E<g ref="char:EOLhyphen"/>vangeliſt ſhould have ſaid, All that go under the name of Sonnes and call God Father, they are of three ſorts, two are Baſtards and no Sonnes, ſuch as are born of the will of the fleſh, ſuch as profeſſe for the ſatisfying of the fleſh, the ſelf-de<g ref="char:EOLhyphen"/>ceiving and cloſeſt Hy<g ref="char:EOLhyphen"/>pocrite, which is no ſon though he think ſo: be<g ref="char:EOLhyphen"/>cauſe he looks onely to himſelf. The other is he that is born of the will of man, that lives only to
+<pb n="31" facs="tcp:53664:20"/> the will of man, the groſſe and notorious Hy<g ref="char:EOLhyphen"/>pocrite. But the third is the true Sonne indeed, which is born of the will of God, of his own will, and that obeys him for his will. But enough of this, which I note more by the way than other<g ref="char:EOLhyphen"/>wiſe: this then is the fift aſcent or gradation in the Ladder of Faiths near<g ref="char:EOLhyphen"/>neſſe, That Gods people are his children.</p>
+            <p n="6">6. The ſixt degree of higher nearneſſe, is the nearneſſe of Spouſe to the Husband: ſo in <hi>Cant.</hi> we have it <hi>My Spouſe.</hi> All beſides them, are
+<pb n="32" facs="tcp:53664:21"/> ſuch as goe a whoring from him, and are mar<g ref="char:EOLhyphen"/>ried to others, to plea<g ref="char:EOLhyphen"/>ſure and credit, and the things of this world: and therefore, they having tyed themſelves former<g ref="char:EOLhyphen"/>ly to God, and broke the marriage knot, are called <hi>James</hi> 4. 4. Adulterers <note place="margin">James 4.</note> and Adultereſſes, be<g ref="char:EOLhyphen"/>cauſe they defile the mar<g ref="char:EOLhyphen"/>riage Bed by the love of the Creature: But Gods people are married to him <note place="margin">Hoſ. 2. 19.</note> by faith.</p>
+            <p n="7">7. Gods people are near him, as the branch to the tree, and 'tis alſo another nearneſſe of faith. <note place="margin">Rom. 6. 20.</note> 
+               <hi>Thou ſtandeſt by faith,</hi>
+               <pb n="33" facs="tcp:53664:21"/> that is, that thou ſtandeſt in the tree Jeſus Chriſt: <g ref="char:punc">▪</g>tis thy faith that makes thee a branch; that's the ſap and juyce which runs from the tree, to make thee live near him as a branch: otherwiſe, thou wert but a wilde Olive, or a dead branch of the tree. 'Tis your faith lets you into the tree, and makes you a Scyon.</p>
+            <p n="8">8. Laſtly, The high<g ref="char:EOLhyphen"/>eſt ſtep of this Ladder of faiths nearneſſe, is of the Members to the head, ſo <note place="margin">Eph. 4. 15.</note> Chriſt is called the head. That as all the members are united and joyned to the head, in ſenſe and
+<pb n="34" facs="tcp:53664:22"/> motion from it; ſo Chriſt is the head, we the mem<g ref="char:EOLhyphen"/>bers, nearly united to him, in all power of knowing and doing.</p>
+            <p>This is the nearneſſe of faith, which as a Lad<g ref="char:EOLhyphen"/>der, conſiſts of theſe eight ſteps of nearneſſe, and every one of them ſtill higher, and ſo nearer God. The nearneſſe of Subject, is greater than that of League; Servant than Subject; Friend than Servant; Childe than Friend; Wife than Childe; Branch out of the ſame Tree, and in the ſame Tree, than the Wife. And laſtly, The
+<pb n="35" facs="tcp:53664:22"/> Member is more eſſen<g ref="char:EOLhyphen"/>tial, and ſo nearer than the Branch. So much for the firſt part of this near<g ref="char:EOLhyphen"/>neſſe, <hi>The nearneſſe of Faith.</hi>
+            </p>
+            <p>2. But ſecondly, As <note place="margin">Part of nearneſſe in the work of faith, which is holineſſe.</note> Gods people are near him by having faith in their hearts, by theſe many proximities; ſo they are near him in the work of faith, which is, <hi>The near<g ref="char:EOLhyphen"/>neſſe of Holineſſe,</hi> which is the bringing of the whole man to God: So that if Gods people touch him, not onely in Rela<g ref="char:EOLhyphen"/>tions, (as I formerly ſhewed) but in the whole man, and that which pro<g ref="char:EOLhyphen"/>ceeds
+<pb n="36" facs="tcp:53664:23"/> from it, if they touch him on all parts, then are they a people near him. Other men as they come not near him in any relations more than ſtones and trees, or little more, having no faith to ſpread theſe rela<g ref="char:EOLhyphen"/>tions over them: ſo having no faith, they have nothing of holi<g ref="char:EOLhyphen"/>neſſe, nothing but ſinne, which turns them away from God, that they come not near him, ſo much as to give him a look, ſo as to give him a word, if un<g ref="char:EOLhyphen"/>awares they meet him in his Ordinances. But <note place="margin">Holineſſe, what it is.</note> Gods people are near
+<pb n="37" facs="tcp:53664:23"/> him in holineſſe, which is the new caſting of the whole man in the mould of faith, to the mind of God. And this is the greateſt nearneſſe of all other, for this more pro<g ref="char:EOLhyphen"/>perly concerns God. Faiths nearneſſe is a near<g ref="char:EOLhyphen"/>neſſe to God for our ſelves, to make us ſafe: but holineſſe is a near<g ref="char:EOLhyphen"/>neſſe to God for himſelf, firſt, and then for our ſelves. Faith ſets us un<g ref="char:EOLhyphen"/>der the covert of Gods love, to ſhelter of wrath: But holineſſe makes us like unto God, to reſtore our firſt perfection we loſt in <hi>Adam:</hi> and this is
+<pb n="14" facs="tcp:53664:24"/> the thing God intends in the working of faith, to reſtore us by holineſſe.</p>
+            <p>Now Gods people are near (in a double reſpect) in holineſſe.</p>
+            <list>
+               <item>1. In the holineſſe of Heart.</item>
+               <item>2. In the holineſſe of Life.</item>
+            </list>
+            <p>Firſt, They are near him in the holineſſe of heart, which is a breaking down the partition wall of ſinne, or taking away the diſtance made by ſin, and a partaking of the like nature with God himſelf.</p>
+            <p n="1">1. Hence firſt they <note place="margin">Nearneſſe of ſimili<g ref="char:EOLhyphen"/>tude.</note> are ſaid to be like God,
+<pb n="39" facs="tcp:53664:24"/> near him by the near<g ref="char:EOLhyphen"/>neſſe of ſimilitude. The holineſſe of the heart be<g ref="char:EOLhyphen"/>ing the new Coyning or Stamping of the Image of God upon the heart; or the new drawing of the Image of God, in the colours of holineſſe, upon the heart. That as we ſay, ſuch a picture is ve<g ref="char:EOLhyphen"/>ry near, meaning the man it repreſents: look on him and the picture together, and they are very like; ſo look on that tablet of the heart, wherein the Pencil of faith, in the Hand of God, hath Drawn in the colours of holineſſe the
+<pb n="40" facs="tcp:53664:25"/> Image of God, and they are very near, very like.</p>
+            <p>On the contrary, a man on whoſe heart faith hath not ſtampt this ho<g ref="char:EOLhyphen"/>lineſſe, is no liker God than darkneſſe the Sun; there is not ſo much as the firſt draught of his Image. And therefore you ſee no more of the Image of God in his heart, than of the image of a man in a beaſt. But faith bringing holineſſe into the heart, makes Gods people of his I<g ref="char:EOLhyphen"/>mage, face anſwering to face, by wiping out the draught of Satan.</p>
+            <p>Therefore 1 <hi>Joh.</hi> 3. 3.
+<pb n="41" facs="tcp:53664:25"/> 
+               <hi>Whoſoever hath this hope in him, purifies himſelf as he is pure:</hi> that is, faith draws a Coppy of holi<g ref="char:EOLhyphen"/>neſſe in the heart, like to that which is in God; faith boiles up to ſuch a holineſſe as he hath. When faith comes, it ſweeps the heart of the dirty corners of ſinne, which made God before to be a farre off; but when ſin is ſwept, then comes in another near<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p n="2">2. The nearneſſe ſe<g ref="char:EOLhyphen"/>condly of a Temple, and houſe: then the heart is conſecrated Gods Chap<g ref="char:EOLhyphen"/>pel, when the rubbiſh and
+<pb n="42" facs="tcp:53664:26"/> dirt of ſin is firſt purged away.</p>
+            <p>And therefore 'tis ſaid, <hi>The Temple of God is ho<g ref="char:EOLhyphen"/>ly,</hi> 
+               <note place="margin">1 Cor. 3. 17.</note> 
+               <hi>whoſe Temple ye are,</hi> that is, when once ye come to be holy, then ye are made Temples of God.</p>
+            <p>So alſo Gods houſe, <note place="margin">Eph. 3. 17.</note> the place of his continual nearneſſe to them; that look as a man is near his houſe, and nearer that than any thing elſe, ſo God and a holy heart are near, and nearer than any other. Nay the holy heart is all the dwelling God hath below. He hath <note place="margin">Eſay. Rom. 8. 9.</note> no other houſe than his
+<pb n="43" facs="tcp:53664:26"/> people; no other rooms in his houſe, than their ſeveral hearts; no other parlour or room of de<g ref="char:EOLhyphen"/>light, than that heart which is beſt adorned and hanged with grace, that is moſt holy. And this is not a houſe which ſtands empty of the inhabitant; but 'tis a houſe whereof he ſaith, as he ſaid of the Temple, <hi>Here will I dwel for ever, for I have a de<g ref="char:EOLhyphen"/>light in it.</hi> But farther, as they are near to God in the holineſſe of heart, ſo alſo</p>
+            <p>Secondly, In the holi<g ref="char:EOLhyphen"/>neſſe <note place="margin">Near in holineſs of life.</note> of life, whereby they live to him, <hi>Gal.</hi> 2.
+<pb n="44" facs="tcp:53664:27"/> 19. and ſo they are ſaid to live with him, and to walk with him, that is, they are ſuch, whoſe lives reach to him, and end in him. And ſo they live with him, that is, they make him their acquain<g ref="char:EOLhyphen"/>tance indeed; as before we ſhewed they had the title of friends. They be not only called friends, but they live as friends, once friends and ever ſo, ſuch as are never parted or ſevered. Therefore this nearneſſe of life is expreſt by walking with God; <hi>Enock walked with</hi> 
+               <note place="margin">Gen. 5. 24.</note> 
+               <hi>God,</hi> that is, he was as near God in his life, as a
+<pb n="45" facs="tcp:53664:27"/> man is to him with whom he walks, he went even with him, walkt not a farre off from God, but cloſe to him, ſide by ſide, as we may ſo ſay.</p>
+            <p>Other men that have no faith, live a farre off from God, as men of a<g ref="char:EOLhyphen"/>nother Country, as ac<g ref="char:EOLhyphen"/>quainted only with ſinne and the world, to whom and with whom they life. But Gods people are a people near him, in their lives.</p>
+            <p>They are near him firſt in their thoughts, ſo near him therein, that their thoughts are ſaid to be
+<pb n="46" facs="tcp:53664:28"/> upon him, <hi>Mal.</hi> 3. 16. <hi>Thoſe that thought upon his name.</hi> So <hi>David,</hi> no<g ref="char:EOLhyphen"/>thing more ordinary than thoughts on God, ſo that he was his <hi>Meditation,</hi> 
+               <note place="margin">Pſal. 63.</note> which is the ſtaying and continuance of the thought on the thing.</p>
+            <p>So again in their will and affections, their Love, Hope, Joy, Fear, is ſaid to be of him and in him. In deſire they fol<g ref="char:EOLhyphen"/>low hard after him, <hi>Pſal.</hi> 63. 8. yea getting once near him, they <hi>cleave to him,</hi> Deut. 4. 4. which cleaving is chief<g ref="char:EOLhyphen"/>ly by love and joy, ſo all their words and
+<pb n="47" facs="tcp:53664:28"/> deeds are to him.</p>
+            <p>Laſtly, They are near <note place="margin">Nearneſſe in their lives by ſerving him.</note> him in their ſervices, for faith makes them not on<g ref="char:EOLhyphen"/>ly Officers in his Court, but to wait and attend upon him, to follow the Court, and attend in their courſes of ſervice, in all the times of worſhip; yea, to be ſuch as ſtand continually before him, to be of his Preſence-Chamber, and at his el<g ref="char:EOLhyphen"/>bow.</p>
+            <p>Whereas others either live from his Court, or are baniſht the Court, ſerving Sin, the World, and Satan; or if they come to Court to
+<pb n="48" facs="tcp:53664:29"/> tender their ſervice; they ſet their hearts another way, as falſe ſervants which do homage in heart to other Lords than their own, when they are in the Court.</p>
+            <p>So theſe when they ſtand in Gods Courts, ſeeming to ſerve him, their hearts attend in the Court of Satan, the Prince of this world. Therefore they are ſaid to honour him with their bodies, their hearts be<g ref="char:EOLhyphen"/>ing farre from him, <hi>Iſai.</hi> 29. 13. farre from him, in the word, farre from him in prayer, or any o<g ref="char:EOLhyphen"/>ther ſervice of his.</p>
+            <pb n="49" facs="tcp:53664:29"/>
+            <p> But Gods people are near unto him in all their ſervice; they are near unto him in the Word, as the Apoſtle; they <note place="margin">1 Theſ. 2. 13.</note> receive it as the Word of God, not of men: as if he ſhould ſay, there are two ſorts of hear<g ref="char:EOLhyphen"/>ers of the Word, ſome hear it only as the Word of man, man teaching, man inſtructing, man exhorting or reproving, <hi>&amp;c.</hi> but you receive it as the Word of God. Faith makes them to hear God in his Word, other men neither ſee, nor hear any thing of God in it.</p>
+            <pb n="50" facs="tcp:53664:30"/>
+            <p> But as it was with <hi>Saul</hi> and his company <note place="margin">Act. 9. 7.</note> travelling to <hi>Damaſcus,</hi> ſo are godly men, and other men. As <hi>Saul</hi> and his company were going to <hi>Damaſcus,</hi> 'tis ſaid, a voice was heard from Heaven, <hi>Saul, Saul, why perſecuteſt thou me?</hi> and the men with him, they heard the voice, but they ſaw no man, only <hi>Paul</hi> ſaw Jeſus Chriſt, the others did not, So wicked men hear the ſound of the Word, but they ſee no man; they ſee not Je<g ref="char:EOLhyphen"/>ſus Chriſt and God in his Word; for 'tis only the eye of faith that ſees God
+<pb n="51" facs="tcp:53664:30"/> in the Proſpective of his Word and Ordinances.</p>
+            <p>And therefore though men have theſe Proſpe<g ref="char:EOLhyphen"/>ctives of his Ordinances, yet they ſee not God in them, becauſe they want the eye of faith to unite them and God together.</p>
+            <p>So again Gods people are near unto him in the Sacrament, which ſo oft as it is worthily received, is a new Bond out of the great Court of Heaven, to tye them and God to<g ref="char:EOLhyphen"/>gether more nearly; and 'tis faith that writes this Bond, and ſeals it in the blood of Jeſus Chriſt.</p>
+            <p>Whereas other men
+<pb n="52" facs="tcp:53664:31"/> are no nearer God in the Sacrament, than they are at their own table; nay 'tis a Sacrament of ſepe<g ref="char:EOLhyphen"/>ration, that even unglues them from their com<g ref="char:EOLhyphen"/>mon nearneſſe in com<g ref="char:EOLhyphen"/>mon mercy<g ref="char:punc">▪</g> for as it is an aſcent which by worthy receiving makes men a ſtep nearer to God, ſo by unworthy partaking they go lower to evil, and farther from him.</p>
+            <p>Thirdly, They are near to God in prayer; for ſo prayer in Scripture is commonly called a drawing nigh to God: and therefore they are ſaid to be Prieſts to God;
+<pb n="53" facs="tcp:53664:31"/> that as Kings and great <note place="margin">Rev. 2. 6.</note> ones have their Chaplains for them, ſo the people of God are his Chaplains, yea Chaplains in Ordina<g ref="char:EOLhyphen"/>ry, ſuch as wait continu<g ref="char:EOLhyphen"/>ally on God; and that not only for themſelves, but for others alſo.</p>
+            <p>That look as Kings have their Maſters of Requeſts, whereby the Petitions of ſuiters are preferred unto them; ſo Gods people are his great Maſters of Requeſts, whereby Petitions of each other, yea and wick<g ref="char:EOLhyphen"/>ed men alſo are preferred to him. So <hi>Abraham</hi> was <note place="margin">Gen. 20. 7, 17.</note> the great Maſter of Re<g ref="char:EOLhyphen"/>queſts
+<pb n="54" facs="tcp:53664:32"/> for King <hi>Abime<g ref="char:EOLhyphen"/>lech, Let Abraham pray for thee, and thou ſhalt live,</hi> &amp;c.</p>
+            <p>So <hi>Job</hi> was the Ma<g ref="char:EOLhyphen"/>ſter <note place="margin">Job 42. 7, 8.</note> of Requeſts for his three friends. So <hi>Moſes</hi> for the <hi>Iſraelites.</hi>
+            </p>
+            <p>And this is faith ſtill that makes this near<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Faith is that which perfumes their prayers with the blood of Chriſt, and ſo they aſcend up to God, and are accepted by him.</p>
+            <p>That as great perſons chooſe ſtill perfumed things, as apparell and Gloves, <hi>&amp;c.</hi> let the other
+<pb n="55" facs="tcp:53664:32"/> alone, becauſe the per<g ref="char:EOLhyphen"/>fume makes them ac<g ref="char:EOLhyphen"/>ceptable; ſo faith makes their prayers acceptable to God, which elſe they would not be.</p>
+            <p>Laſtly, And ſo we <note place="margin">The laſt nearneſſe to God, which is in his ſpe<g ref="char:EOLhyphen"/>ciall At<g ref="char:EOLhyphen"/>tributes.</note> have done with theſe ſe<g ref="char:EOLhyphen"/>verall branches of near<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Gods people are near him in his ſpeciall Attri<g ref="char:EOLhyphen"/>butes.</p>
+            <p>They are near his pre<g ref="char:EOLhyphen"/>ſence, and in his favour. Others are like <hi>Abſalom,</hi> which might not ſee the Kings face.</p>
+            <p>Or at the beſt God frowns upon them.</p>
+            <p>They are near his eye.</p>
+            <pb n="56" facs="tcp:53664:33"/>
+            <p> Near his ear. <note place="margin">Pſal. 34. 15</note>
+            </p>
+            <p>And ſo near his hand, that when danger is at hand, he is at hand, and puts forth his hand to help, and faith takes him by the hand, and gets out.</p>
+            <p>So I might ſhew how they are near the Trini<g ref="char:EOLhyphen"/>ty. <note place="margin">Near the Trinity.</note>
+            </p>
+            <p>The Father, Son, and holy Spirit, which are (with all in them) moſt properly theirs.</p>
+            <p>If then by faith in it ſelf they are near unto God in that eight-fold nearneſſe.</p>
+            <list>
+               <pb n="57" facs="tcp:53664:33"/>
+               <head>Of</head>
+               <item>Covenant,</item>
+               <item>Subject,</item>
+               <item>Servant,</item>
+               <item>Friend,</item>
+               <item>Child,</item>
+               <item>Spouſe,</item>
+               <item>Branch,</item>
+               <item>Member.</item>
+            </list>
+            <p>And again in the work of faith, which is holineſſe</p>
+            <list>
+               <head>Of</head>
+               <item>Heart, as
+<list>
+                     <item>Like God. his
+<list>
+                           <item>Tem<g ref="char:EOLhyphen"/>ple.</item>
+                           <item>Houſe.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>Life in
+<list>
+                     <item>Thoughts,</item>
+                     <item>Affections,</item>
+                     <item>Speeches,</item>
+                     <item>Actions.</item>
+                     <item>Service,
+<list>
+                           <item>Word,</item>
+                           <item>Sacraments</item>
+                           <item>Prayer, <hi>&amp;c.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <pb n="58" facs="tcp:53664:34"/>
+            <p> If near him in his ſpe<g ref="char:EOLhyphen"/>ciall Attributes;</p>
+            <p>And to all the Trini<g ref="char:EOLhyphen"/>ty;</p>
+            <p>Then they are a peo<g ref="char:EOLhyphen"/>ple very near him.</p>
+            <p>But to all this it may <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> be objected: How then may ſome ſay doth it come to paſſe, that God is ſaid to</p>
+            <p>Stand afar off? <note place="margin">Pſal. 10. 1.</note>
+            </p>
+            <p>To hide himſelf, as <hi>David</hi> and many of Gods people complain<g ref="char:punc">▪</g>
+            </p>
+            <p>It thus falls out ſome<g ref="char:EOLhyphen"/>times, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> with theſe near ones; but this is, when they themſelves go a<g ref="char:EOLhyphen"/>way from God by ſinne, where God is not. And
+<pb n="59" facs="tcp:53664:34"/> therefore God may there be ſaid, to be a far off: Becauſe ſinne is a place where God is not, or ever was near to them in it, as continuing in it, but only he is near them, as coming out of ſinne, ſo farre as they are ſinne<g ref="char:EOLhyphen"/>full, ſo farre is God re<g ref="char:EOLhyphen"/>mote from them; he comes no farther into the heart than faith purifies it, into no rooms of the ſoul, but thoſe that by faith are ſwept from ſinne.</p>
+            <p>2. Again, though God ſeems to ſtand a farre off, and to hide himſelf, that we think him not near:
+<pb n="60" facs="tcp:53664:35"/> yet as <hi>Jacob</hi> ſaid, He <note place="margin">Gen. 28. 27.</note> was nigh and he not a<g ref="char:EOLhyphen"/>ware of it; ſo God is near his people, when they think not of it: even as the father is taken by the child for gone, when he is but behind the hang<g ref="char:EOLhyphen"/>ings.</p>
+            <p>3. Thirdly, God is many times near, and actually helps when we think he is not, and doth not, becauſe we look for him, in a way of our own preſcribing, wherein he will not come.</p>
+            <p>There is a double way wherein God comes to <note place="margin">Double way of help.</note> his people.</p>
+            <p>Firſt, An ordinary
+<pb n="61" facs="tcp:53664:35"/> way, or the Kings high<g ref="char:EOLhyphen"/>way, the great roade of Providence and Mercy, wherein he ordinarily is nigh them, as helping them in ordinary means.</p>
+            <p>There is ſecondly a ſe<g ref="char:EOLhyphen"/>cret privy way or path, wherein he comes ſome<g ref="char:EOLhyphen"/>times, and is at us, before we are aware of it; and ſo we think him not come, becauſe not in the common roade, wherein we expected him. Thus many times God is near in giving ſome other mercy than we ask, as more fit for us. Thus ſometimes he gives not it may be wealth, but
+<pb n="62" facs="tcp:53664:36"/> friends, or we it may be look to have a luſt healed by faſting and prayer, when they, nor any ſo common means do it not, but he heals it by confeſ<g ref="char:EOLhyphen"/>ſion of it to a godly friend. <note place="margin">Jam. 5. 16.</note>
+            </p>
+            <p>4. Though God ſtand a far off, yet he then is near, though not ſenſi<g ref="char:EOLhyphen"/>bly, yet really and truly; the eſſence of the near<g ref="char:EOLhyphen"/>neſſe remains ſtill, though the ſenſe and influence be ſomewhat cut off: even as it is with the body of the Sun, when 'tis co<g ref="char:EOLhyphen"/>vered with a Cloud, the body of the Sun is then as near, as when the
+<pb n="63" facs="tcp:53664:36"/> Cloud was not before it, though the heat and light, the influence were ſome<g ref="char:EOLhyphen"/>what cut off. A man is ſtill as near the Sun in a cloudy day, as a clear day; ſo a man is as near God, that once is truly near him, even when he hides himſelf under a cloud of trial, as before. The re<g ref="char:EOLhyphen"/>lation for the ſubſtance holds as firm, as a ſon is as much a ſon, when he is a thouſand miles off from his father, as when he is in the ſame room, in his fathers preſence; ſo a ſon of God, is as much a ſon, for the eſſence and truth of the relation, and
+<pb n="64" facs="tcp:53664:37"/> as much a ſpouſe, when God is hidden from him under the diſtance of af<g ref="char:EOLhyphen"/>fliction, as when he was joyous and at peace. The covenant is the ſame, the kindred the ſame, the nearneſſe the ſame. Even as the branches are as near the tree at one time as another, though they perceive it not. The members are as near the head, in a Palſey or Apo<g ref="char:EOLhyphen"/>plexy, as at other times, though they feel it not, ſo fully or plainly as at other times they may. And 'tis to be obſerved, that in ſuch caſes as this of <hi>David;</hi> God is not
+<pb n="65" facs="tcp:53664:37"/> quite departed; for ſayes he, <hi>Why ſtandest thou a farre off,</hi> which argues, God then was not out of ſight, or out of call, though not ſo near as be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>Now we come to Ap<g ref="char:EOLhyphen"/>plication.</p>
+            <p>Firſt then, If Gods <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> people are ſo exceeding near him, the Uſe ſhall be that in the Text, the words foregoing, <hi>That God greatly exalts the horn of his people.</hi> Is not this an exultation, when others are left out of all theſe forenamed rela<g ref="char:EOLhyphen"/>tions, that they ſhould be taken in; to be in
+<pb n="66" facs="tcp:53664:38"/> Covenant with him, yea ſervants, yea friends, yea ſonnes, yea his ſpouſe? Come and ſee if there be any honour like unto this honour wherewith he cloathes his people, and which ſtrangers meddle not with.</p>
+            <p>If it be ſo, Then <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> touch not Gods anoint<g ref="char:EOLhyphen"/>ed and doe his people no harme: wrong them not (as <hi>Eccleſiaſtes</hi> ſaies of the King) ſo much as in thy thought: much leſſe proceed to open wrong, or perſecution againſt them.</p>
+            <p>For firſt conſider, he to whom they are ſo <label type="milestone">
+                  <seg type="milestoneunit">Mot. </seg>1</label>
+               <pb n="67" facs="tcp:53664:38"/> near, ſhall be ſure to hear of it. Did any man but think, the wrong he doth to his fellow ſub<g ref="char:EOLhyphen"/>ject, the King ſhould be ſure to hear it, would not he hold his hands and conſider?</p>
+            <p>There is not the leaſt wrong thou canſt doe to any of theſe near ones; but God ſhall be ſure to hear of it.</p>
+            <p>They have friends e<g ref="char:EOLhyphen"/>nough in the Court of Heaven to tell him, yea thoſe of his Preſence-Chamber, the An<g ref="char:EOLhyphen"/>gels, ſuch as ſtand con<g ref="char:EOLhyphen"/>tinually before him, ſuch as are ſent Embaſ<g ref="char:EOLhyphen"/>ſadours,
+<pb n="68" facs="tcp:53664:39"/> on purpoſe to ſee what wrong is done to them. Such as lie Lie<g ref="char:EOLhyphen"/>ger, to hear and carry the leaſt word ſpoken a<g ref="char:EOLhyphen"/>gainſt his people; and they will tell tales of you.</p>
+            <p>Beſides they them<g ref="char:EOLhyphen"/>ſelves are at the Kings eare, and in prayer will go and tell him of you. That if Angels and Saints which are all the Court of Heaven, if they or any of them know of it, God ſhall be ſure to hear it.</p>
+            <p>But ſecondly, You <label type="milestone">
+                  <seg type="milestoneunit">Mot. </seg>2</label> ſhall be ſure to hear of it again, for if they be the near ones, then whatſo<g ref="char:EOLhyphen"/>ever this nearneſſe can
+<pb n="69" facs="tcp:53664:39"/> do, ſhall come to their aid and their confuſion. It is the only way, to pull the world about a mans ears; to provoke the Lord-General of the world, to Muſter up his Batallions, and Hoaſts of creatures againſt thee; to cauſe Heaven and Earth, and the Comman<g ref="char:EOLhyphen"/>der of both, to turn ene<g ref="char:EOLhyphen"/>mies to thee, and in their courſes to fight againſt thee, as the Stars in their courſes did againſt <hi>Siſera.</hi> If then any man dare bid God, and his Armies of creatures battail, let him give but the defiance to his people, and the word
+<pb n="70" facs="tcp:53664:40"/> is no ſooner ſpoken, but they are all up in Armes, and come marching, like <hi>Jehu,</hi> furiouſly againſt thee. Ten ſeveral Ar<g ref="char:EOLhyphen"/>mies of creatures, we ſee leavied, and ſent againſt the <hi>Aegyptians</hi> and <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> for the wrong done to the <hi>Iſraelites.</hi> And Army being ſent after Army, in the end, (fully to revenge the wrong,) God Muſtred up the Waters, cauſing them to lye in ambuſh againſt him; and when they were once come into the <note place="margin">Exod. 14. 26.</note> ambuſh, the Watch-word was but given, and the lyers in waite ſet upon
+<pb n="71" facs="tcp:53664:40"/> them, and overthrew them. So the Sun and <note place="margin">Joſ. 10.</note> the Moon by ſtanding ſtill, were made as ſpies to betray, and a ſhowre of ſtones like a Volley of ſhot to deſtroy the <hi>Cana<g ref="char:EOLhyphen"/>anites.</hi> Wild-fire out of <note place="margin">2 King. 1.</note> the Camp of Heaven, deſtroyed the Captains and their fifties that came to take <hi>Elijah.</hi> The <note place="margin">Numb. 16. 31, 32.</note> earth undermin'd <hi>Korah</hi> and his company, for their words againſt <hi>Mo<g ref="char:EOLhyphen"/>ſes.</hi>
+            </p>
+            <p>Beſides theſe, God hath an Army of diſeaſes, which ſometimes is ſent to revenge his people. When God ſhall muſter
+<pb n="72" facs="tcp:53664:41"/> up the humours, of a mans own body againſt him, making his enemies to be thoſe of his own houſe<g ref="char:EOLhyphen"/>hold, ſuch enemies as will not turn back; a<g ref="char:EOLhyphen"/>gainſt whom, all the mu<g ref="char:EOLhyphen"/>nition of Phyſick cannot defend; ſuch enemies as will not raiſe their ſeige, nor make any compoſiti<g ref="char:EOLhyphen"/>on, but aſſault, and in their aſſault, beat down the Ramparts and Forti<g ref="char:EOLhyphen"/>fications of nature, ta<g ref="char:EOLhyphen"/>king the ſtrong Caſtle of the heart, and lay the Fort of the whole man in the duſt, even with the ground; ſo that if you can abide the brunt
+<pb n="73" facs="tcp:53664:41"/> againſt Heaven and Earth, and the ſeveral ranks of Souldiers, of creatures of the Lord of Hoaſts. If you have pro<g ref="char:EOLhyphen"/>viſion enough againſt a ſeige of judgements; if Armour of Proof to bear off the Bullet of Deſtru<g ref="char:EOLhyphen"/>ction ſhot from the En<g ref="char:EOLhyphen"/>gine of Vengeance. If you dare ſtand againſt Gods great Ordance, his ſore judgements of Plague, Famine, or the like, (which mowes whole Cities and Nati<g ref="char:EOLhyphen"/>ons down as the Sithe doth Corn;) Then ſpeak and wrong, and ſpare not. But alas you know, all
+<pb n="74" facs="tcp:53664:42"/> the Armour wherein ye can truſt, is but Paper-Armour to defend you; that all the things you can flye to, are but the crea<g ref="char:EOLhyphen"/>cures, which are Souldi<g ref="char:EOLhyphen"/>ers of the Lords of Hoſts, which therefore will not prove diſloyal to their Lord, to flye from their Colours, for your ſervice and Pay, but be the very firſt, even in the Fore-front of the Battel againſt you.</p>
+            <p>But thirdly, Do them <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>3</label> all the good you can. For</p>
+            <p>Firſt, You hold all you <label type="milestone">
+                  <seg type="milestoneunit">Mot. </seg>1</label> have upon them. Heaven and Earth would be diſ<g ref="char:EOLhyphen"/>ſolved,
+<pb n="75" facs="tcp:53664:42"/> did not the Church uphold them; and were that once fi<g ref="char:EOLhyphen"/>niſht, all things would fall again to their firſt confu<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>As 'tis in the erecting of a building, ſtones and timber, and other mate<g ref="char:EOLhyphen"/>rials are prepar'd, Work<g ref="char:EOLhyphen"/>men are hir'd, and the tooles are moving, till the Edifice is reard, and when once the building is finiſht, the ſtones and rubbiſh are caſt aſide, the tooles laid down, the Workmen paid and ſent away, but they had their hire from the building: So in the building of the
+<pb n="76" facs="tcp:53664:43"/> Church, workmen are hir'd, tooles uſed, and the building being up, creatures and wicked men (uſed for the Church) are paid with peace and wealth, and ſo caſhired; but they had their pay (the good things of this life) from the Church. You hold all you have on the Church; theſe near ones are they, on whom you hold all; they are the great Lords, on whom you hold your lives and goods. As <hi>Lot</hi> was the Lord, on whom the <hi>So<g ref="char:EOLhyphen"/>domites</hi> held both their City and ſafety. And therefore when he was
+<pb n="77" facs="tcp:53664:43"/> gone, he took ſafety with him, and deſtruction ſud<g ref="char:EOLhyphen"/>denly followed on them. They are your great Charter, by which you hold all your priviledges, and therefore make much of them.</p>
+            <p>Do them all the good <label type="milestone">
+                  <seg type="milestoneunit">Mot. </seg>2</label> you can, for you are ſure to be ſure to be requited. God will never ſend any away empty, that ſhews kindneſſe to his people. Not a Cup of cold water to a Diſciple; not a Far<g ref="char:EOLhyphen"/>thing given to a Saint, that ſhall not be requited in a Pound; not a Meale to Gods needy, that ſhall not be rewarded with a
+<pb n="78" facs="tcp:53664:44"/> plentifull Crop, a liberal Table. Not a Seed, a Corn of kindneſſe, ſown on theſe near ones, that ſhall not come up, in a plentifull ear, of a hun<g ref="char:EOLhyphen"/>dred fold bleſſing. The people of God is the fat<g ref="char:EOLhyphen"/>eſt ſoyle to ſow kindneſſe in, they yield the great<g ref="char:EOLhyphen"/>eſt increaſe, the fulleſt re<g ref="char:EOLhyphen"/>ward.</p>
+            <p>If they are ſo near un<g ref="char:EOLhyphen"/>to <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>4</label> God, then get into their acquaintance, and forſake not their fellow<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p>There are but two <note place="margin">Double Motive.</note> cauſes that make men ſeek the acquaintance of thoſe which are near
+<pb n="79" facs="tcp:53664:44"/> great perſons. Firſt, Be<g ref="char:EOLhyphen"/>cauſe they are men of better rank and quality than others. Secondly, Becauſe they are able by their nearneſſe to do for them.</p>
+            <p>Theſe are firſt men of <label type="milestone">
+                  <seg type="milestoneunit">Mot. </seg>1</label> the beſt rank and quality, and they are able to do more for you, than all the world beſide. Theſe are men of the beſt rank, if ye conſider their deſcent. Others are but earth-born and ſin-born, theſe are of the family of Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>Again, They are of the beſt quality, becauſe ſuch as bear all the great
+<pb n="80" facs="tcp:53664:45"/> Offices in the Court of Heaven.</p>
+            <p>Others may have the name of common Sub<g ref="char:EOLhyphen"/>jects, but they bear none of the Offices.</p>
+            <p>God dares not truſt them; they would only bear Offices, to bear the credit and gain.</p>
+            <p>But Gods people bear the Offices in his Court.</p>
+            <p>Firſt, They are of his Privy Councill, to know <note place="margin">Pſal. 25. 14.</note> his mind.</p>
+            <p>Other men know his works, as his works of mercy, and his works of juſtice, but his mind, his ſecret, they know not. Even as the works of a
+<pb n="81" facs="tcp:53664:45"/> King, his Laws and Pro<g ref="char:EOLhyphen"/>clamations, or the like, any Subject knows, but his mind, his ſecret, that only his Councill knows. So the works of God every man can take no<g ref="char:EOLhyphen"/>tice of, but his mind, they only know which are near of his Councill. They know his mind in ſin, to be out of meaſure ſinfull, his mind in grace, to be ſo free and tranſ<g ref="char:EOLhyphen"/>cendent. They only know his mind.</p>
+            <p>They are again the Stewards of his Houſ<g ref="char:EOLhyphen"/>hold; <hi>Stewards of the ma<g ref="char:EOLhyphen"/>nifold</hi> 
+               <note place="margin">1 Pet. 4. 10.</note> 
+               <hi>grace of God,</hi> 1 Pet. 4. 10.</p>
+            <pb n="82" facs="tcp:53664:46"/>
+            <p> There are many wants, as there are many of his houſe, therefore many graces. And be<g ref="char:EOLhyphen"/>cauſe every one hath not all grace, therefore are they Stewards mutually each to other, that every one might have that which is lacking in his faith, and humility, <hi>&amp;c.</hi> And this they do as Stewards, diſpencing out of the Kings ſtore, out of the ſtore of grace, receiv<g ref="char:EOLhyphen"/>ed from him; diſpencing in inſtruction, diſpencing in reproof, and comfort, and the like, which is Chriſtian communion, which is the communica<g ref="char:EOLhyphen"/>ting
+<pb n="83" facs="tcp:53664:46"/> of grace each to other.</p>
+            <p>And as they are Gods Stewards, ſo they are his Treaſurers.</p>
+            <p>They keep all his rich<g ref="char:EOLhyphen"/>es. They are the treaſu<g ref="char:EOLhyphen"/>rers of his Word and Or<g ref="char:EOLhyphen"/>dinances, wherein all his eſtate is layed up. They are the keepers of his Jewels, precious faith, and the reſt. They are the treaſurers of mercy and judgement, who can by the Key of prayer in the hand of faith, ſhut or open the door of mercy, and take out what they will. Take out rain, or drought (as <hi>Elijah)</hi> take out peace
+<pb n="84" facs="tcp:53664:47"/> or war, life or death: all is in the keeping of his people who are his Trea<g ref="char:EOLhyphen"/>ſurers.</p>
+            <p>Secondly, As they are men of the beſt rank and quality, ſo they are able to do for you. Have you any ſuit to be preferred to the King, what readi<g ref="char:EOLhyphen"/>er way than to uſe ſuch who are ſo near him? A friend in the Court may do more you know, than all the friends you have beſide. A friend in the Court of Heaven may get you more, than all the world beſides. We ſee it in <hi>Moſes,</hi> who ſaved <note place="margin">Numb. 14. 12, 13, &amp;c.</note> the life of a whole Nati<g ref="char:EOLhyphen"/>on
+<pb n="85" facs="tcp:53664:47"/> by his ſuit to God, when at once he would have deſtroyed them. He may get you life, or health, or any thing.</p>
+            <p>The next Uſe ſhall be for Triall. That if Gods people be ſo exceeding near him;</p>
+            <p>Then let every one <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>5</label> try whether they are ſo near to God or no.</p>
+            <p>Firſt, Whether are you near him in a right Covenant or no? If ſo, then you have joyned your ſelf to the Lord, <hi>in</hi> 
+               <note place="margin">Jer. 50. 5.</note> 
+               <hi>a perpetuall Covenant that ſhall not be forgotten.</hi>
+            </p>
+            <p>There are three things <note place="margin">Three things.</note> here to be obſerved:</p>
+            <list>
+               <pb n="86" facs="tcp:53664:48"/>
+               <item>1. It is ſuch a Co<g ref="char:EOLhyphen"/>venant, wherein they joyn themſelves to the Lord.</item>
+               <item>2. 'Tis perpetuall.</item>
+               <item>3. 'Tis not forgotten.</item>
+            </list>
+            <p>Firſt, It is ſuch a Co<g ref="char:EOLhyphen"/>venant, wherein they joyn themſelves to the Lord: that is, ſuch a one wherein they are halfes with God, where they ſtrike with God, as well as God with them. Many there are with whom God hath paſſed his Co<g ref="char:EOLhyphen"/>venant, which are in the bounds and territories of the Covenant, which ne<g ref="char:EOLhyphen"/>ver yet joyned with God in the Covenant. Many
+<pb n="87" facs="tcp:53664:48"/> are in the heat and benefit of the Covenant, which have not layed hold on the Covenant, and truly tyed themſelves to God in it. But they which are in the right Covenant, are ſuch as have joyned themſelves to God, as he is joyned to them.</p>
+            <p>Secondly, It is a per<g ref="char:EOLhyphen"/>petuall Covenant. It is not a truce which laſts for a time, and then ends in open hoſtility; for ſuch are the Covenants of many, which like enemies brought to an exigent, make truce for a time, which ends in war. So they being brought to an
+<pb n="88" facs="tcp:53664:49"/> exigent in credit, come to the Sacrament, that men might not ſpeak ill of them, or on the bed of ſickneſſe, or ſuch like, make truce with God, but it ends in war, in ſin again.</p>
+            <p>But the right Cove<g ref="char:EOLhyphen"/>nant is a perpetual Cove<g ref="char:EOLhyphen"/>nant, that is, not only ſuch a one as is of perpe<g ref="char:EOLhyphen"/>tual force and tye only, but alſo ſuch a one as is intended to perpetuity, and 'tis their earneſt de<g ref="char:EOLhyphen"/>ſire to keep it for ever. And 'tis ſuch a Cove<g ref="char:EOLhyphen"/>nant as being once made, they will repent it, though they looſe by it.
+<pb n="89" facs="tcp:53664:49"/> Looſe their luſts, and in them the world, which is wrapt up in luſts, as meat in the ſtomack. Looſe themſelves alſo, that is, deny themſelves; ſome go ſo far as to make Co<g ref="char:EOLhyphen"/>venants, and intend them to perpetuity; but when they are urged to per<g ref="char:EOLhyphen"/>form the conditions, and let all goe for naked Chriſt, and a Kingdom only in reverſion; they flye off from their bar<g ref="char:EOLhyphen"/>gain as too hard. But the right Covenant is a per<g ref="char:EOLhyphen"/>petual Covenant, ſuch as they ſtand to through the attendance of unavoida<g ref="char:EOLhyphen"/>ble croſſes and enemies.</p>
+            <pb n="90" facs="tcp:53664:50"/>
+            <p> Thirdly, It is a Cove<g ref="char:EOLhyphen"/>nant which is not forgot<g ref="char:EOLhyphen"/>ten. Men oft go ſo far, as to make Covenants for ever, but they forget them.</p>
+            <p>As mens evidences co<g ref="char:EOLhyphen"/>vered over with duſt, or thrown into a corner, are out of ſight, and ſo for<g ref="char:EOLhyphen"/>gotten; ſo Covenants with God are covered over with ſin, or thrown into a corner, a corner of the world, pleaſure, or profit, or credit, and ſo are forgotten.</p>
+            <p>Haſt thou not made a Covenant with God, which is forgotten? that ſome luſt or other hath
+<pb n="91" facs="tcp:53664:50"/> made thee quite forget it, as if no ſuch thing had been? if thy Covenant be right, 'tis ſuch a Covenant as is not forgotten.</p>
+            <p>The next ſigne of a <label type="milestone">
+                  <seg type="milestoneunit">Sign. </seg>2</label> Covenant-right, is, that where that is, there are mutual paſſages of love and kindneſſe, as com<g ref="char:EOLhyphen"/>merce and traffique; ſo 'tis between the ſoul and God in Covenant. Then as God preſents thee with mercy, life, peace, friends; preſents with grace, and the pearl Chriſt Jeſus, lockt up in the Cabinet of the Pro<g ref="char:EOLhyphen"/>miſes, thou canſt not but ſay as <hi>Peter</hi> ſaid to the
+<pb n="92" facs="tcp:53664:51" rendition="simple:additions"/> lame man asking an alms, <hi>Such as I have I give thee, though Silver and Gold have I none;</hi> grace nor glory, my goodneſſe extends not to thee, yet I give thee my ſelf, my thoughts, affections, and all I have: I preſent thee my prayers, and thanks and ſervice. Doſt thou trade with him in duty, as he traffiques with thee in mercy? Hath he made thy heart, his great ſtaple of merchandize, to ex<g ref="char:EOLhyphen"/>change continually duty for mercy? it is a ſign thou art in Covenant with him. On the con<g ref="char:EOLhyphen"/>trary, doſt thou get what
+<pb n="93" facs="tcp:53664:51"/> thou canſt from him, without leave, without praying for them? take things by force, health, wealth, and the like; not paying any thing, any ſervice, not cuſtome, ſo much as the leaſt deſer<g ref="char:EOLhyphen"/>ved ſervice, it is a ſign of one out of Covenant; for only an enemy out of league, will rob a Com<g ref="char:EOLhyphen"/>mon-wealth, or take things by force.</p>
+            <p>Laſtly, If thou art in league with God, then thou haſt common friends and foes with him. Gods friends are thy friends, and his foes thy foes, <hi>Do not I hate</hi> 
+               <note place="margin">Pſal. 139. 21, 22.</note>
+               <pb n="94" facs="tcp:53664:52"/> 
+               <hi>them that hate thee,</hi> &amp;c. yea thou hateſt ſin, and <note place="margin">Pſal. 97. 10.</note> the fuel and bellowes of ſin, the world, and Satan which feeds and blows up ſinne. A man in Co<g ref="char:EOLhyphen"/>venant hates ſinne. Men hate the ſting, and love the Serpent, hate ſin as 'tis attended with Hell and death, but love the ſin it ſelf. Doeſt thou therefore hate ſin? thy worldly mindedneſſe, or pride, or uncleanneſſe, or whatſoever it be? ſo doſt thou hate ſinners, as ſteept in ſin, as enemies too to thy inner man? So again, haſt thou com<g ref="char:EOLhyphen"/>mon friends with God, to
+<pb n="95" facs="tcp:53664:52"/> love where God loves, and as far as he loves? to love the very ſight and ſhew of holineſſe, the name of a godiy man? And doeſt thou love eve<g ref="char:EOLhyphen"/>ry thing that may con<g ref="char:EOLhyphen"/>firm and continue the League, the Ordinances betwixt God and thee, though never ſo contrary and croſſe to thy corrupt nature? it is then a ſign, thou art in Covenant with God.</p>
+            <p>The ſecond ſigne is from the ſecond degree of nearneſſe, the near<g ref="char:EOLhyphen"/>neſſe of Subject. Whe<g ref="char:EOLhyphen"/>ther art thou as a Subject of Gods or no? if thou
+<pb n="96" facs="tcp:53664:53"/> art a true Subject, then thou obeyeſt his Laws and Proclamations; then art thou confined in thy wayes, within the pre<g ref="char:EOLhyphen"/>cincts of his Laws, ſo as to do thy indeavour to keep them, even all of <note place="margin">Pſal. 119. 33, 34.</note> them, with thy whole man, and that for ever. Then all his Laws ſtand in force upon thy whole man, till they are cal'd in, by a new Act of the Court of Parliament of Heaven. Thou endea<g ref="char:EOLhyphen"/>voureſt alſo to keep the leaſt Commandment, and doeſt not remain a wilfull breaker of it, though it might get thee
+<pb n="97" facs="tcp:53664:53"/> never ſo much.</p>
+            <p>Again, Thou obeyeſt his Proclamations, every promulgation of his will, or any Law, that by ill cuſtome, is ready to be antiquated and aboliſht. Every new duty com<g ref="char:EOLhyphen"/>manded by his high Commiſſion, his Mini<g ref="char:EOLhyphen"/>ſters, whoſe office it is, to beat down new up-ri<g ref="char:EOLhyphen"/>ſing enormities, by diſ<g ref="char:EOLhyphen"/>peircing his Proclamati<g ref="char:EOLhyphen"/>ons, and faſtening them upon the poſts of mens hearts, upon their con<g ref="char:EOLhyphen"/>ſciences being faulty herein.</p>
+            <p>Whether again art <label type="milestone">
+                  <seg type="milestoneunit">Sign. </seg>3</label> thou near unto God, as a
+<pb n="98" facs="tcp:53664:54"/> ſervant is to his Maſter? If thou art a ſervant of his, then thou art faith<g ref="char:EOLhyphen"/>full unto him in all his houſe, <hi>Heb.</hi> 3. 2. 'Tis re<g ref="char:EOLhyphen"/>quired <note place="margin">Heb. 3. 2.</note> in a ſervant that he be found faithfull as <hi>Moſes</hi> was in all his houſe.</p>
+            <p>Firſt, Whether art thou faithfull? and faith<g ref="char:EOLhyphen"/>full all his houſe?</p>
+            <p>Firſt, Art thou faith<g ref="char:EOLhyphen"/>full? doeſt thou attend upon him, and upon no other? There are many in ſervice with God, that go for Chriſtians, and wear his Livery, when their hearts attend upon Satan and the world.
+<pb n="99" facs="tcp:53664:54"/> Many are bodily conver<g ref="char:EOLhyphen"/>ſant about him in Prayer and the Word, whoſe hearts are left behind in the world and luſts.</p>
+            <p>Again, They work not for him but themſelves, and ſo ſteale from him that which is his. He is an unfaithfull ſervant, that ſteals from his Ma<g ref="char:EOLhyphen"/>ſter that which is his. Men ſteal thus from God, they ſteal from him his time; his time of pray<g ref="char:EOLhyphen"/>ing, his time of hearing, and reading, and medita<g ref="char:EOLhyphen"/>ting, and examining their hearts, and lives, and his time of receiving the Sa<g ref="char:EOLhyphen"/>crament, <hi>&amp;c.</hi> and give
+<pb n="100" facs="tcp:53664:55"/> it to others, to profane<g ref="char:EOLhyphen"/>neſſe, give it to pride, and worldly-minded<g ref="char:EOLhyphen"/>neſſe. They ſteal from him alſo his Talents, wit, ſtrength, beauty, health, riches, and give them to luſts and ſinnes.</p>
+            <p>Art thou</p>
+            <p>Secondly, Faithfull in all his houſe, to do all that his ſervice requires. Faithfull in regard of the Maſter, to do all that concerns his perſon, not one duty alone but all, not only to tell him of things amiſſe in praying to him; but alſo to hear him telling thee thy du<g ref="char:EOLhyphen"/>ty, and obeying, hear<g ref="char:EOLhyphen"/>ing
+<pb n="101" facs="tcp:53664:55"/> his word, and obſer<g ref="char:EOLhyphen"/>ving it. Not only atten<g ref="char:EOLhyphen"/>ding at his Table, in com<g ref="char:EOLhyphen"/>ing to the Sacrament; but alſo in looſing a meal, in faſting, when his ſer<g ref="char:EOLhyphen"/>vice requires it, and ſo every other day.</p>
+            <p>So faithfull in regard of thy fellow ſervants, in helping and aſſiſting them in their work, in exhorting, and encoura<g ref="char:EOLhyphen"/>ging them in well-doing; in inſtructing them alſo, and admoniſhing them when they erre and do a<g ref="char:EOLhyphen"/>miſſe.</p>
+            <p>Faithfull in regard of all other things in the houſe; Art thou then
+<pb n="102" facs="tcp:53664:56"/> faithfull to thy Maſter, and faithfull in all his houſe, ſo as all his work is performed? then art thou near him as a ſer<g ref="char:EOLhyphen"/>vant. Contrary, art thou ſloathfull, idle, wronging thy Maſter, in his goods and time, and wronging thy fellow ſervants? then art thou no ſervant of his, but a ſervant of thy ſelf.</p>
+            <p>4. Whether art thou one of the friends of God or no?</p>
+            <p>If thou art a friend of his, Then firſt thou lov<g ref="char:EOLhyphen"/>eſt <note place="margin">1. Pro<g ref="char:EOLhyphen"/>perty of a friend.</note> him for himſelf; thou loveſt him for his purity and holineſſe, and excel<g ref="char:EOLhyphen"/>lency;
+<pb n="103" facs="tcp:53664:56"/> becauſe he is ſo, and not for that he hath. Thou loveſt not his, but him, for that is friendſhip to love a man for him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>Many there are that pretend friendſhip to him, and ſeem as if they loved him: But it is, becauſe he hath much to give and they expect much. They love him, as he is mercifull and bountifull, as he is full and open-handed. As he opens out of his Treaſu<g ref="char:EOLhyphen"/>ry of goodneſſe, deals out peace and ſafety, gives forth wealth and friends, compaſſes them
+<pb n="104" facs="tcp:53664:57"/> about with kindneſſe, fils up their Cup till it run over. But they go no farther in kindneſſe, than he doth in bounty. They both meaſure and limit their love, by his good<g ref="char:EOLhyphen"/>neſſe; and therefore if he turn the ſtream of mercy a little from them, their goodneſſe and love dries up alſo. It may be they can be content to Pray and hear the Word, and perform the other offices of love, if they may get by it. <hi>Aſſemble</hi> 
+               <note place="margin">Hoſ. 7. 14.</note> 
+               <hi>themſelves for Corn and Wine,</hi> as the Prophet ſpeaks. But this is to do duty to mercy, to pray
+<pb n="105" facs="tcp:53664:57"/> to peace and ſafety, to love, not him but his.</p>
+            <p>And ſo the moſt do with God, as men do with thoſe that are grea<g ref="char:EOLhyphen"/>ter than themſelves.</p>
+            <p>A great man becauſe he is rich and powerfull, and can do much for them, to him they pre<g ref="char:EOLhyphen"/>tend a great deale of friendſhip, and ſhew of love; but if he once dry up in bounty, or ſtop in kindneſſe, they are gone for new friends to reap new kindneſſe; whereas if they loved the man for himſelf, their love would laſt ſo long as the perſon, not the purſe or power
+<pb n="106" facs="tcp:53664:58"/> only remaind. And who would take ſuch ones to be friends, that loved but ſo only?</p>
+            <p>And ſo do you think to go for friends, when you come for nothing elſe? Will God take you to be friends to him, when your love is only ſpun forth by mercy? when it is only linked to peace and riches, or the like? when your friendſhip is only planted and rooted, and grows in the ſoyle of his boun<g ref="char:EOLhyphen"/>ty, by the dew of his fa<g ref="char:EOLhyphen"/>vour, and is not built up<g ref="char:EOLhyphen"/>on him?</p>
+            <p>You would not take
+<pb n="107" facs="tcp:53664:58"/> ſuch a man to be your friend, that is a friend to your Cheſt or Table on<g ref="char:EOLhyphen"/>ly. Yet God hath a great many ſuch Cheſt, ſuch Table friends, that are as great friends there as any; but if once the Purſe is ſhut, the Cloth drawn, their friendſhip is taken away alſo. Whe<g ref="char:EOLhyphen"/>ther then, can you love God ſtript of all conſide<g ref="char:EOLhyphen"/>rations of kindneſſe, ſo that you will not break with him, though he draw in his kindneſſe, but keep him ſtill though he had nothing to give; no Heaven hereafter to make you happy, nor
+<pb n="108" facs="tcp:53664:59"/> peace and wealth, and the like, to ſtay you here? 'tis then a ſign you are his friend. But if you love him as he appears in mercy only, as he is co<g ref="char:EOLhyphen"/>vered over with kind<g ref="char:EOLhyphen"/>neſſe; it is a ſign you are no friend of his; he that is a friend, loves not ſo much his as him.</p>
+            <p>Secondly, Another <note place="margin">2. Sign of friends.</note> ſign of friendſhip is mu<g ref="char:EOLhyphen"/>tual truſt, to each o<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Whether then will you truſt him, and may he again truſt you?</p>
+            <p>Firſt, Whether will you truſt him? that is, will you take him on his
+<pb n="109" facs="tcp:53664:59"/> bare word without any more? that is, to truſt a man when thou relyeſt on him, for his bare pro<g ref="char:EOLhyphen"/>miſe. And ſo that is to truſt God for a mercy, not when you have hold on him and the mercy too; one hand on him, another on the thing: But when you lay hold on him, with both hands, that his promiſe is all the hold you have.</p>
+            <p>Many will truſt him when they have ſecurity; truſt him for a mercy, deliverance, health or life: when they have a pledg, when they are in the way of deliverance, or life;
+<pb n="110" facs="tcp:53664:60"/> truſt to the ſtaffe, when they have hold of one end of it; whereas he that is a friend, will take his word as ſoon as his bond. Truſt him againſt truſt, againſt hope, As <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> becauſe he was a friend of God, believed him (againſt hope) for a ſon, even then when in nature, and reaſon he could ſee no iſſue.</p>
+            <p>To truſt him with a pledg, is no more than an enemy will do; any man will truſt ſo, only a friend will truſt for the bare re<g ref="char:EOLhyphen"/>lation of friendſhip.</p>
+            <p>Again, Whether may God truſt thee? he that
+<pb n="111" facs="tcp:53664:60"/> is a friend, God dares betruſt with any thing; betruſt him with riches; betruſt him with health or friends; betruſt him with greater things, even with Jeſus Chriſt, which is all his ſtock of mercy; and betruſt with grace alſo, becauſe he will give all, or the Revenues of them to God again.</p>
+            <p>Other men, though he gives them health, or wealth, or the like; yet he truſts them not with them, as looking for them again.</p>
+            <p>And therefore what he beſtowes on them, it is given as an exerciſe of
+<pb n="112" facs="tcp:53664:61"/> his bounty; and not any exerciſe of their truſt and fidelity, which is there<g ref="char:EOLhyphen"/>fore ſome ſmaller mat<g ref="char:EOLhyphen"/>ter that he gives, as theſe outward things which he looks not for again. Even as we deal with men that have oft deceived us, or are poor and needy; if they come to borrow, we lend them not any thing we look to have again, becauſe we dare not truſt them; but it may be, we give them ſomething out of our bounty, for their need.</p>
+            <p>So much for this third Sign. The next is,</p>
+            <pb n="113" facs="tcp:53664:61"/>
+            <p> Whether art thou <label type="milestone">
+                  <seg type="milestoneunit">Sign. </seg>4</label> eſpouſed to Chriſt or not?</p>
+            <p>If thou art eſpouſed to him, then</p>
+            <p>Firſt, Thou likeſt him, and loveſt him better than any other. As a loving Wife, if you ask her how ſhe likes her Husband; ſhe will anſwer, I care not what others do, how they like him; for my part, I like him better than any other.</p>
+            <p>So the Spouſe of Chriſt in the <hi>Canticles,</hi> 
+               <note place="margin">Cant. 5. 9.</note> when ſhe is askt how ſhe likes Chriſt; what her beloved is better than other beloveds: ſaith ſhe,
+<pb n="114" facs="tcp:53664:62"/> 
+               <hi>He is the chiefeſt of ten</hi> 
+               <note place="margin">Verſ. 10.</note> 
+               <hi>thouſand:</hi> that is, Let others ſay what they will, like or diſlike, ſhe likes him better than any in the world beſides: For <hi>He is white and ruddy,</hi> 
+               <note place="margin">Verſ. 10.</note> that is, he is perfectly beautifull for colour. And ſo ſhe deſcribes him throughout, ſumming up all in the 16. <hi>Verſe,</hi> that <hi>He is altogether lovely,</hi> 
+               <note place="margin">Verſ. 16.</note> that is, there is nothing to be ſeen in him, that is, any deformity, to hin<g ref="char:EOLhyphen"/>der liking or love: but <hi>he is moſt comely.</hi> Other men, as the Prophet <hi>E<g ref="char:EOLhyphen"/>ſay</hi> ſayes, though in ano<g ref="char:EOLhyphen"/>ther caſe, <hi>See no form or</hi>
+               <pb n="115" facs="tcp:53664:62"/> 
+               <hi>comelineſſe in him;</hi> but he is unto them, as a Blackmoore, that hath nothing ſightly. All his grace and holineſſe is un<g ref="char:EOLhyphen"/>to them but as ſo much blackneſſe, though it be his perfect beauty. And therefore let him come never ſo often a wooing to them, in his Word and Ordinances, he can<g ref="char:EOLhyphen"/>not get a promiſe, for they like him not.</p>
+            <p>Whether then doeſt thou like Jeſus Chriſt, and like him above all others? if thou art eſ<g ref="char:EOLhyphen"/>pouſed to him thou doeſt ſo. There are many that ſeem to like him, and
+<pb n="116" facs="tcp:53664:63"/> make love to him in praying, <hi>&amp;c.</hi> can be con<g ref="char:EOLhyphen"/>tent to do ſomething to have him; if they might have him with ſome eaſe; but they like him not better than any other, than a luſt of pleaſure, or gain, or credit. We ſee this in the Parable of thoſe that were bid<g ref="char:EOLhyphen"/>den to the <hi>Marriage Sup<g ref="char:EOLhyphen"/>per.</hi> 
+               <note place="margin">Luk. 14. 18.</note> God there offered his Sonne if they would have him. But they li<g ref="char:EOLhyphen"/>ked him not ſo well as the world, elſe would they have taken him, when God made them the motion of Marri<g ref="char:EOLhyphen"/>age.</p>
+            <pb n="117" facs="tcp:53664:63"/>
+            <p> If thou then art Mar<g ref="char:EOLhyphen"/>ried to Jeſus Chriſt, thou likeſt him and his love better than all the world. Therefore <hi>Cant.</hi> 
+               <note place="margin">Cant. 1. 2.</note> 1. 2. 'Tis ſaid, <hi>His love is better than Wine,</hi> that is, than all the excellen<g ref="char:EOLhyphen"/>cy of the creature; that there is not any other Grape that yields ſuch ſweetneſſe and comfort, as his love; no Grape of pleaſure, or credit, or profit, in all the Vyneard of the world that is like it, to her Spouſe-like-taſte; but Jeſus Chriſt is better than all, even as Wine exceeds all other liquors whatſoever.</p>
+            <pb n="118" facs="tcp:53664:64"/>
+            <p> What then is it that fills up thy heart, that takes up the chiefeſt place and room there? What is it ſits higheſt and poſ<g ref="char:EOLhyphen"/>ſeſſes the firſt room of thy liking, the top of thy love? Is it the world or is it Jeſus Chriſt? Is every pleaſure or profit a thing that takes thee up from Jeſus Chriſt? that ſhuts him out of doores, or makes him ſtand at the doore, when they have eaſie entrance? Does the world ſtay, and lodge, and walk in thy heart, when Chriſt can have no room there? or if he get in, is he not ad<g ref="char:EOLhyphen"/>mitted
+<pb n="119" facs="tcp:53664:64"/> onely into ſome common outward room, when the world hath the Parlour or chief room? Does he not ſtay a while only, when the world is intreated and forced to ſtay? Is not the world as the chief of the houſe, when Chriſt comes only as a ſervant, for thy own good and ſafety? If the world gets thus all away from Jeſus Chriſt, art not thou Married to it and not to him? And therefore if thou pre<g ref="char:EOLhyphen"/>tendeſt never ſo much love to him, and yet pre<g ref="char:EOLhyphen"/>ferreſt any thing before him, thou art much miſta<g ref="char:EOLhyphen"/>ken,
+<pb n="120" facs="tcp:53664:65"/> if thou thinkeſt Chriſt thy Husband. But</p>
+            <p>Secondly, If thou art <note place="margin">2. Sign of a Spouſe.</note> near unto Chriſt, as the Wife to the Husband, then thou takeſt him for better for worſe, and thou keepeſt him for better for worſe: every Spouſe does ſo if a right Spouſe.</p>
+            <p>1. Thou takeſt Chriſt for better for worſe, that is, not only for his Crown, but alſo for his Croſſe; not only for health and wealth, and good report, but for ſickneſſe, and poverty, and evil report; not onely for what he
+<pb n="121" facs="tcp:53664:65"/> hath, but for what he wants, to ſhare with him alike in all conditions.</p>
+            <p>That which our Savi<g ref="char:EOLhyphen"/>our Chriſt required of his Diſciples, to <hi>Take</hi> 
+               <note place="margin">Matth. 10. 38.</note> 
+               <hi>up his Croſſe;</hi> he requires alſo of every ſoul that eſpouſes it ſelf to him, to take his Croſſe, is to take him with afflictions; and not only ſo, but with perſecutions and death too.</p>
+            <p>And herein he deals as a man coming a Suiter to a woman, tells her, this I am worth, and ſuch and ſuch like bene<g ref="char:EOLhyphen"/>fits you ſhall enjoy by me; but withall, you
+<pb n="122" facs="tcp:53664:66"/> muſt take me with ſuch an imperfection, want of a legge or limbe, with ſuch a weakneſſe and the like. So God deals with men, tells them of a <note place="margin">Mark 10. 29, 30.</note> Kingdom, and the Pre<g ref="char:EOLhyphen"/>rogatives of his Crown, (if they eſpouſe them<g ref="char:EOLhyphen"/>ſelves to him:) but with<g ref="char:EOLhyphen"/>all, they muſt take him with afflictions, ſickneſſe, poverty, loſſes and croſ<g ref="char:EOLhyphen"/>ſes; yea, with perſecu<g ref="char:EOLhyphen"/>tion and death, to take all into the bargain, and ſo the match is made up, not otherwiſe.</p>
+            <p>Every one is willing to take Chriſt as a Savi<g ref="char:EOLhyphen"/>our, to take him with
+<pb n="123" facs="tcp:53664:66"/> peace and riches, and a Kingdome. But art thou willing to take him, if he ſhould not prove worth a Groate of worldly con<g ref="char:EOLhyphen"/>tent? If thou ſhouldeſt never ſee any thing but a rough Sea of troubles, ſtorm after ſtorm, po<g ref="char:EOLhyphen"/>verty after ſickneſſe, diſ<g ref="char:EOLhyphen"/>grace after poverty, im<g ref="char:EOLhyphen"/>priſonment and baniſh<g ref="char:EOLhyphen"/>ment after them; and ſo as to faile all thy life time in this Sea, that all Gods waves ſhould paſſe over thee?</p>
+            <p>Art thou willing to take him, (though as many tempeſts of wrath ſhould fall upon thee as
+<pb n="124" facs="tcp:53664:67"/> did upon patient <hi>Job)</hi> and keep thee to him? It may be thou couldſt take him with ſome one affliction, but canſt not endure to hear of ano<g ref="char:EOLhyphen"/>ther? But canſt thou take him, or haſt thou taken him with a willing<g ref="char:EOLhyphen"/>neſſe to looſe that which is moſt dear to thee? In thy wealth it may be thou likeſt ſuch a match as Jeſus Chriſt, to have him with houſe and land, with a full ſtock, a gain<g ref="char:EOLhyphen"/>full trade: But what doeſt thou, or wouldſt thou do, to think on Cat<g ref="char:EOLhyphen"/>tle ſtolne, or dying, thy Houſe ſpoiled, thy Seed
+<pb n="125" facs="tcp:53664:67"/> buried and rotten in the ground, all caſt away; thy Trade decayed, and worth nothing? Couldſt thou now keep thee to thy Husband, when theſe things come by him, and not ſeek to raiſe thy ſelf by unlawfull courſes of deceiving and ſtealing?</p>
+            <p>Or if theſe were not ſo much, canſt thou take him with loſſe of friends, moſt endeared to thee? loſſe of Parents, Chil<g ref="char:EOLhyphen"/>dren, yea, the Wife of thy boſome? Couldſt thou be willing to have <hi>Job</hi>'s boyles, and to ſcrape thee with a Pot<g ref="char:EOLhyphen"/>ſheard? to looſe all thy
+<pb n="126" facs="tcp:53664:68"/> credit and good opinion, of near friends and o<g ref="char:EOLhyphen"/>thers, and ſo to be left without any ſtaffe of worldly comfort to reſt on?</p>
+            <p>But this is not all, canſt thou take Chriſt with perſecutions, to be mockt and ſcorn'd for righteouſneſſe ſake? wil<g ref="char:EOLhyphen"/>lingly bearing the worſt of reproaches, (which the men of the world ſo warily avoid) and to bear the utmoſt, the ma<g ref="char:EOLhyphen"/>lice and wit of men can impoſe?</p>
+            <p>If thou art rightly eſ<g ref="char:EOLhyphen"/>pouſed to Jeſus Chriſt, thou takeſt him for this
+<pb n="127" facs="tcp:53664:68"/> and more, to endure the utmoſt rigour of tor<g ref="char:EOLhyphen"/>ture, that makes men by the only thought of it to tremble. Thou wilt take Chriſt with this willing<g ref="char:EOLhyphen"/>neſſe to endure any thing, and not make any excep<g ref="char:EOLhyphen"/>tion. Even as a Wife which takes a man for love, takes him to en<g ref="char:EOLhyphen"/>dure any thing with him.</p>
+            <p>And as thou takeſt <note place="margin">2. Hold Chriſt.</note> him for better for worſe, ſo thou holdeſt him for better for worſe.</p>
+            <p>A Wife that takes a man out of love to him, ſhe is not only willing to endure with him, but ſhe
+<pb n="128" facs="tcp:53664:69"/> does it indeed. She for<g ref="char:EOLhyphen"/>ſakes him not, becauſe he proves poor or ſickly, (which are no cauſes of forſaking) or that men ſpeak againſt him, but ſhe holds againſt all ſuch ſtorms.</p>
+            <p>Many go ſo far, as to take Chriſt for better for worſe, till the evill comes; but in the time of affliction, or perſe<g ref="char:EOLhyphen"/>cution; becauſe their match proves full of croſſes, and becauſe men ſpeak againſt the match; becauſe they re<g ref="char:EOLhyphen"/>vile and ſlander the wayes of God; they break away, and di<g ref="char:EOLhyphen"/>vorce
+<pb n="129" facs="tcp:53664:69"/> themſelves from their Husband Chriſt. Which is for a Wife, (becauſe her Husband and ſhe find croſſes in their match,) to forſake her Husband; whereas if the knot were tyed in a right choice and affection, it would work of (on ſuch grounds) all thought of forſaking: So if the knot be right<g ref="char:EOLhyphen"/>ly tyed between the ſoul and Jeſus Chriſt, it would hold againſt all the croſſes and evils per<g ref="char:EOLhyphen"/>ſecutions and deaths in the world.</p>
+            <p>And therefore in the <note place="margin">Cant. 8. 7.</note> 8<hi rend="sup">th</hi> of the <hi>Canticles</hi> and
+<pb n="130" facs="tcp:53664:70"/> the 7<hi rend="sup">th</hi>, it is ſaid, <hi>Much water cannot quench love, neither can the flouds drown it,</hi> that is, All the evils in the world of afflictions (for ſo com<g ref="char:EOLhyphen"/>monly they are ſhad<g ref="char:EOLhyphen"/>dowed out in the Scri<g ref="char:EOLhyphen"/>pture <note place="margin">So <hi>Matth.</hi> 7. 27. af<g ref="char:EOLhyphen"/>fliction by rain, per<g ref="char:EOLhyphen"/>ſecution by flouds, as temp<g ref="char:EOLhyphen"/>tations by winds.</note> by waters) and perſecutions (which or<g ref="char:EOLhyphen"/>dinarily are tearmed flouds) cannot drown or overwhelm this love, not waſh it away, or bear it down. Afflictions cannot do it (though they if any thing) be as waters to quench it, and which quench the love of many falſe Spouſes. But as the
+<pb n="131" facs="tcp:53664:70"/> ſtone <hi>Asbestus</hi> being once fired, can never be put out by any force, though it con<g ref="char:EOLhyphen"/>ſume it ſelf: ſo is it with this Marriage-knot, this heating of the ſoul by the love of Chriſt, when once it is hot by love, throw whole Buckets of affli<g ref="char:EOLhyphen"/>ctions, poverty, ſick<g ref="char:EOLhyphen"/>neſſe, ſhame; let fall whole ſhowres of evils, continued afflictions; plunge it into a Sea of ſorrows, the long<g ref="char:EOLhyphen"/>eſt and greateſt preſ<g ref="char:EOLhyphen"/>ſures and trials: and this love will not out, but burn in the midſt
+<pb n="132" facs="tcp:53664:71"/> of the waters. This fire of Heaven is like the other fire of de<g ref="char:EOLhyphen"/>ſtruction that never goes out.</p>
+            <p>Nor yet can the flouds drown it; flouds are, both deep waters and violent waters, for thoſe two things are included in a floud (be<g ref="char:EOLhyphen"/>ſide water,) namely, depth, and violence of water. Some things can<g ref="char:EOLhyphen"/>not be drown'd, be<g ref="char:EOLhyphen"/>cauſe the water is not deep enough. Other things, becauſe the wa<g ref="char:EOLhyphen"/>ter is not ſtrong enough, by its force of running, to bear them down.
+<pb n="133" facs="tcp:53664:71"/> But when theſe two, depth and force meet in one water, that water of all others, is moſt likely to drown. So is it with evils, ſome evils are not deep enough to ſwallow up thoſe that lye under them, and therefore they hazard not their love much: or if they be deep, yet not vi<g ref="char:EOLhyphen"/>olent enough, but creep on men inſenſi<g ref="char:EOLhyphen"/>bly, and ſoe they keep ſome ſtrength a<g ref="char:EOLhyphen"/>gainſt them, that they are not overcome by them, as ſickneſſe coming more inſenſi<g ref="char:EOLhyphen"/>bly
+<pb n="134" facs="tcp:53664:72"/> and ſlowly, be<g ref="char:EOLhyphen"/>cauſe not deeply rooted, is oftentimes wrought out by the naturall ſtrength, or at leaſt, not ſo troubleſome to nature. Where<g ref="char:EOLhyphen"/>as thoſe that are deep and ſtrong to, over<g ref="char:EOLhyphen"/>throw the body, and lay it in the Duſt: ſo is it with ſome men, they can en<g ref="char:EOLhyphen"/>dure afflictions, and ma<g ref="char:EOLhyphen"/>ny, but if deep and violent evils, as per<g ref="char:EOLhyphen"/>ſecutions, (if not by the length; yet by the ſoarneſſe and vi<g ref="char:EOLhyphen"/>olence) they make the love of men to moul<g ref="char:EOLhyphen"/>der
+<pb n="135" facs="tcp:53664:72"/> away to nothing. Continuall ſhame it may be, by ordina<g ref="char:EOLhyphen"/>ry men, fellowes, does but ſhake it: but the deep reproach and vi<g ref="char:EOLhyphen"/>olent injuries of great one drownes all, by taking away their foo<g ref="char:EOLhyphen"/>ting, that hold they had of Chriſt, becauſe it was not deeply rooted; ſo that they which are not able to ſtand againſt the flouds, but their love is drown<g ref="char:EOLhyphen"/>ed quite and over<g ref="char:EOLhyphen"/>whelmed in them, that it riſes no more, are no true, but falſe Spouſes of Chriſt:
+<pb n="136" facs="tcp:53664:73"/> And therefore to ſhut theſe two up toge<g ref="char:EOLhyphen"/>ther, we may ſee it in that of our Sa<g ref="char:EOLhyphen"/>viour, of the ſtony ground, which when <note place="margin">Matth. 13. 21.</note> tribulations or perſe<g ref="char:EOLhyphen"/>cutions come are of<g ref="char:EOLhyphen"/>fended. The meaning of the words is this, That there are two ſorts of men, which ſeem Spouſes to Chriſt, and are not.</p>
+            <p>Some that take him for better only, and not for worſe, for when the worſer, tri<g ref="char:EOLhyphen"/>bulations or perſecu<g ref="char:EOLhyphen"/>tions come, they fall away.</p>
+            <pb n="137" facs="tcp:53664:73"/>
+            <p> Others that have a little faſter hold on him, but not in the right Spouſe-like af<g ref="char:EOLhyphen"/>fection; for when per<g ref="char:EOLhyphen"/>ſecutions come, (though tribulations did not ſhake their love) they fall away: for ſo the words are to be un<g ref="char:EOLhyphen"/>derſtood, that one of the two, either tri<g ref="char:EOLhyphen"/>bulations or afflicti<g ref="char:EOLhyphen"/>ons divide them from their ſuppoſed Huſ<g ref="char:EOLhyphen"/>bands, that they can<g ref="char:EOLhyphen"/>not ſtand againſt the flouds. Whether then if thou canſt ſtand againſt the Waters; yet canſt thou ſtand
+<pb n="138" facs="tcp:53664:74"/> againſt the flouds? Art thou ſo deep and ſtrong in love, as not to be covered and borne down by the depth and violence of perſecution, for they that are rightly eſ<g ref="char:EOLhyphen"/>pouſed to Chriſt, will hold him for better for worſe, yea, in the worſt that can come.</p>
+            <p>Laſtly, The laſt ſigne of a right con<g ref="char:EOLhyphen"/>jugall love is, to de<g ref="char:EOLhyphen"/>ny all affection to a<g ref="char:EOLhyphen"/>ny other that would unjuſtly have it. She that is a Wife, ty<g ref="char:EOLhyphen"/>ed to her Husband in
+<pb n="139" facs="tcp:53664:74"/> a right choice and af<g ref="char:EOLhyphen"/>fection, ſo as to take him, not by con<g ref="char:EOLhyphen"/>ſtraint, but purely from love, will let her love ſtirre to no other, than to him which is her Husband. So that ſoule which is right<g ref="char:EOLhyphen"/>ly eſpouſed to Jeſus <note place="margin">Luke 9. 23.</note> Chriſt, denyes her ſelfe, of every Who<g ref="char:EOLhyphen"/>riſh affection to the world. For that is to deny our ſelves, when natural corruption would faine move too, and askes leave to go out, to the world, for the ſatisfying of that old ſelfe. But Spouſe-like
+<pb n="140" facs="tcp:53664:75"/> affection ſayes no; you ſhall not move to plea<g ref="char:EOLhyphen"/>ſure; you ſhall not goe to credit; you ſhall not run to profit again: no, I am eſ<g ref="char:EOLhyphen"/>pouſed to Jeſus Chriſt, he it is that hath my love, I dare not give it to any other beſides. Him have I given my heart, and I will keep it for him.</p>
+            <p>As a Spouſe may have ſuch motions, ri<g ref="char:EOLhyphen"/>ſing up to the beauty, and excellencies of others, (which otherwiſe ſhe could like well enough,) but becauſe ſhe hath gi<g ref="char:EOLhyphen"/>ven him her love, ſhe
+<pb n="141" facs="tcp:53664:75"/> rejects ſuch motions, as not fit for her condition; ſo the ſoul that is eſpou<g ref="char:EOLhyphen"/>ſed to Chriſt, may have ſuch unchaſt motions ri<g ref="char:EOLhyphen"/>ſing up, to the excellen<g ref="char:EOLhyphen"/>cy of the creature (which ſhe otherwiſe could like) but becauſe ſhe hath gi<g ref="char:EOLhyphen"/>ven Chriſt her heart, ſhe caſt out ſuch motions as the Sea doth dirt.</p>
+            <p>Doeſt thou then give way to falſe affections ri<g ref="char:EOLhyphen"/>ſing in thy heart, to pre<g ref="char:EOLhyphen"/>vent the love of Chriſt? thou haſt no Spouſelike affection, and ſo art no true Spouſe. On the con<g ref="char:EOLhyphen"/>trary, doeſt thou beat down all falſe loves; ſuch
+<pb n="142" facs="tcp:53664:76"/> affections as naturally boyle up in thy heart, to the ſatisfying of the fleſh, that old ſelf? Doeſt thou give ſin a peremtory de<g ref="char:EOLhyphen"/>nial, when it would car<g ref="char:EOLhyphen"/>ry thee away from Chriſt to the creature? it is then a ſign the knot is tyed between thee and Chriſt, and thou maiſt take com<g ref="char:EOLhyphen"/>fort in it.</p>
+            <p>Other ſigns from the other degrees of near<g ref="char:EOLhyphen"/>neſſe might here be ad<g ref="char:EOLhyphen"/>ded, but theſe are the main.</p>
+            <p>If this unworthy Tra<g ref="char:EOLhyphen"/>ctate may beget profit or acceptance, it is that I wiſh.</p>
+            <pb n="143" facs="tcp:53664:76"/>
+            <p> 
+               <hi>The Lord Jeſus Chriſt, who is our nearneſſe, joyn our ſpirits nearer daily to his Father, by his holy Spirit, in faith and holi<g ref="char:EOLhyphen"/>neſſe, and preſerve us all to his eternal Kingdome and glory.</hi> Fare. well.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
